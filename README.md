@@ -1,2 +1,1 @@
-# nordtech-analytics-dashboard
-E-commerce data analytics dashboard for NordTech. Identification of product return risks and customer sentiment analysis using Python and Streamlit.
+Šis projekts analizē viedierīču e-komercijas datus. Galvenais atradums: NordLock Pro modelim ir kritiska 11.3% atgriešanas likme kvalitātes defektu dēļ.
