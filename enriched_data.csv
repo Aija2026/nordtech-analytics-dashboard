@@ -1,0 +1,1120 @@
+Transaction_ID,Date,Customer_ID,Product_Category,Product_Name,Price,Quantity,Payment_Status,Total_Value,Refund_Amount,Issue_Category,Ticket_Count,Net_Revenue,Has_Return
+100236,2023-11-24,C0012,Electronics,Smartphone Z,919.2,1,Paid,919.2,0.0,No complaint,,919.2,False
+100061,2023-11-17,C0002,Electronics,Laptop X,1598.23,1,Paid,1598.23,0.0,No complaint,,1598.23,False
+101131,2023-12-14,C0008,Smart Home,NordPlug,23.86,1,Paid,23.86,0.0,"Product Defect, Other",2.0,23.86,False
+100391,2023-11-28,C0001,Smart Home,NordTherm,101.68,1,Paid,101.68,0.0,No complaint,,101.68,False
+100319,2023-11-27,C0004,Accessories,Phone Case,35.72,1,Paid,35.72,0.0,No complaint,,35.72,False
+100889,2023-12-09,C0001,Electronics,NoiseCancel Headphones,230.36,1,Paid,230.36,0.0,No complaint,,230.36,False
+100105,2023-11-19,C0056,Smart Home,NordCam Mini,82.4,1,Paid,82.4,0.0,No complaint,,82.4,False
+100603,2023-12-04,C0002,Electronics,Laptop X,1771.94,1,Paid,1771.94,0.0,No complaint,,1771.94,False
+101189,2023-11-28,C0001,Smart Home,NordLock Pro,210.88,1,Paid,210.88,0.0,No complaint,,210.88,False
+100563,2023-12-03,C0008,Electronics ,Smartphone Z,855.14,1,Paid,855.14,855.14,No complaint,,0.0,True
+100366,2023-11-28,C0004, Electronics ,Smartphone Z,1024.64,1,Paid,1024.64,0.0,No complaint,,1024.64,False
+100996,2023-12-12,C0003,Smart Home,NordLock Pro,222.61,1,Paid,222.61,0.0,No complaint,,222.61,False
+100043,2023-11-16,C0002,Electronics ,TV Pro,1164.3,1,Paid,1164.3,0.0,No complaint,,1164.3,False
+100725,2023-12-06,C0003, Accessories,Laptop Sleeve,27.13,2,Paid,54.26,0.0,No complaint,,54.26,False
+100456,2023-11-30,C0001, Smart Home ,NordTherm,105.45,1,Paid,105.45,0.0,No complaint,,105.45,False
+100537,2023-12-02,C0030,Electronics,NoiseCancel Headphones,290.46,1,Paid,290.46,0.0,Shipping Issue,1.0,290.46,False
+101176,2023-11-24,C0017,Accessories,Phone Case,34.84,1,Paid,34.84,0.0,No complaint,,34.84,False
+101058,2023-12-13,C0001,Electronics,Laptop X,1504.82,1,Paid,1504.82,0.0,No complaint,,1504.82,False
+100032,2023-11-16,C0094,Electronics,Laptop X,1585.05,1,Paid,1585.05,0.0,No complaint,,1585.05,False
+100455,2023-11-30,C0117, Smart Home ,NordLock Pro,205.04,2,Paid,410.08,0.0,Product Defect,2.0,410.08,False
+100354,2023-11-28,C0002, Smart Home ,NordLock Pro,201.09,1,Paid,201.09,0.0,No complaint,,201.09,False
+101181,2023-12-08,C0006,Accessories,Accessory Bundle,27.11,1,Paid,27.11,0.0,No complaint,,27.11,False
+100062,2023-11-17,C0001, Smart Home ,NordLock Pro,221.97,1,Paid,221.97,0.0,No complaint,,221.97,False
+101049,2023-12-13,C0001, Electronics ,NoiseCancel Headphones,288.0,1,Paid,288.0,0.0,No complaint,,288.0,False
+100686,2023-12-05,C0059,Electronics,Tablet A,753.9,1,Paid,753.9,0.0,No complaint,,753.9,False
+100233,2023-11-24,C0278,Electronics,TV Pro,1041.16,1,Paid,1041.16,0.0,No complaint,,1041.16,False
+100094,2023-11-18,C0076, Accessories ,Charger,28.32,3,Paid,84.96000000000001,0.0,No complaint,,84.96000000000001,False
+100215,2023-11-23,C0063,Electronics,Smartphone Z,1077.99,1,Paid,1077.99,0.0,No complaint,,1077.99,False
+100310,2023-11-26,C0002,Electronics,TV Pro,1601.36,1,Paid,1601.36,0.0,No complaint,,1601.36,False
+100290,2023-11-25,C0002, Accessories ,Phone Case,12.32,1,Paid,12.32,0.0,No complaint,,12.32,False
+100737,2023-12-06,C0015,Electronics,Tablet A,672.16,1,Paid,672.16,0.0,No complaint,,672.16,False
+100318,2023-11-27,C0005,Electronics,Smartphone Z,727.66,1,Paid,727.66,0.0,No complaint,,727.66,False
+101141,2023-12-01,C0038, Accessories ,Accessory Bundle,55.24,3,Paid,165.72,0.0,No complaint,,165.72,False
+100891,2023-12-09,C0008,Smart Home,NordLock Pro,212.31,2,Paid,424.62,0.0,No complaint,,424.62,False
+101188,2023-12-10,C0062, Accessories ,Wireless Mouse,32.09,1,Paid,32.09,0.0,No complaint,,32.09,False
+100096,2023-11-18,C0001,Electronics,NoiseCancel Headphones,166.52,1,Paid,166.52,0.0,No complaint,,166.52,False
+100880,2023-12-09,C0001,Smart Home,NordLock Pro,231.5,1,Paid,231.5,0.0,No complaint,,231.5,False
+100070,2023-11-17,C0124,Accessories,Accessory Bundle,86.79,1,Paid,86.79,0.0,Product Defect,1.0,86.79,False
+100797,2023-12-07,C0097,Electronics,Tablet A,583.65,1,Paid,583.65,0.0,No complaint,,583.65,False
+100721,2023-12-06,C0085,Smart Home,NordLock Pro,200.26,1,Paid,200.26,0.0,"Product Defect, Other",2.0,200.26,False
+100796,2023-12-07,C0145,Accessories,Wireless Mouse,43.57,1,Paid,43.57,0.0,"Shipping Issue, Product Defect",3.0,43.57,False
+100352,2023-11-28,C0013, Electronics ,Laptop X,1343.0,1,Paid,1343.0,0.0,No complaint,,1343.0,False
+100551,2023-12-02,C0200,Electronics,Tablet A,445.23,1,Paid,445.23,0.0,No complaint,,445.23,False
+100404,2023-11-29,C0017, Smart Home ,NordTherm,83.85,1,Paid,83.85,0.0,No complaint,,83.85,False
+100715,2023-12-06,C0002,Electronics,NoiseCancel Headphones,330.75,1,Paid,330.75,0.0,No complaint,,330.75,False
+100431,2023-11-29,C0310,Smart Home,NordLock Pro,193.31,1,Paid,193.31,0.0,No complaint,,193.31,False
+100608,2023-12-04,C0024,Smart Home,NordTherm,81.21,1,Paid,81.21,0.0,No complaint,,81.21,False
+100648,2023-12-05,C0024,Electronics ,Smartphone Z,834.38,1,Paid,834.38,0.0,No complaint,,834.38,False
+100623,2023-12-04,C0002,Accessories,Laptop Sleeve,43.96,2,Paid,87.92,0.0,No complaint,,87.92,False
+100341,2023-11-27,C0006,Electronics,NoiseCancel Headphones,300.7,2,Paid,601.4,0.0,No complaint,,601.4,False
+100742,2023-12-07,C0001, Accessories ,USB-C Cable,10.69,4,Paid,42.76,0.0,No complaint,,42.76,False
+100873,2023-12-09,C0004,Electronics,Smartphone Z,863.18,1,Paid,863.18,0.0,No complaint,,863.18,False
+100078,2023-11-18,C0007,Electronics,Tablet A,527.12,1,Paid,527.12,0.0,No complaint,,527.12,False
+101143,2023-12-10,C0001,Electronics ,TV Pro,970.6,1,Paid,970.6,0.0,No complaint,,970.6,False
+100272,2023-11-25,C0003, Electronics ,TV Pro,1118.62,1,Paid,1118.62,0.0,No complaint,,1118.62,False
+100081,2023-11-18,C0091,Electronics,Tablet A,372.51,1,Paid,372.51,0.0,No complaint,,372.51,False
+100280,2023-11-25,C0002,Accessories,Charger,39.36,1,Paid,39.36,0.0,No complaint,,39.36,False
+100837,2023-12-08,C0006,Electronics,Tablet A,702.29,1,Paid,702.29,0.0,No complaint,,702.29,False
+100506,2023-12-01,C0057, Accessories,Screen Protector,7.12,1,Paid,7.12,0.0,Product Defect,1.0,7.12,False
+100364,2023-11-28,C0003,Electronics,TV Pro,1094.93,1,Paid,1094.93,0.0,No complaint,,1094.93,False
+101173,2023-12-07,C0002,Electronics ,Tablet A,636.8,1,Paid,636.8,0.0,No complaint,,636.8,False
+100040,2023-11-16,C0238,Electronics,Laptop X,1653.4,1,Paid,1653.4,0.0,No complaint,,1653.4,False
+101085,2023-12-13,C0038,Smart Home,NordCam Mini,91.86,2,Paid,183.72,0.0,No complaint,,183.72,False
+100412,2023-11-29,C0053,Electronics,TV Pro,1261.41,1,Paid,1261.41,0.0,No complaint,,1261.41,False
+100278,2023-11-25,C0181,Smart Home,NordLock Pro,247.91,1,Paid,247.91,0.0,No complaint,,247.91,False
+101101,2023-12-14,C0004,Smart Home,NordLock Pro,211.15,1,Paid,211.15,0.0,"Other, Product Defect",2.0,211.15,False
+100565,2023-12-03,C0005,Smart Home,NordLock Pro,185.0,1,Paid,185.0,0.0,No complaint,,185.0,False
+100827,2023-12-08,C0013, Electronics ,Tablet A,665.07,1,Paid,665.07,665.07,No complaint,,0.0,True
+100561,2023-12-03,C0002,Electronics,Tablet A,771.78,1,Paid,771.78,0.0,No complaint,,771.78,False
+101183,2023-11-21,C0170,Accessories,Charger,30.35,2,Paid,60.7,0.0,No complaint,,60.7,False
+100345,2023-11-27,C0250,Electronics,TV Pro,1536.64,1,Paid,1536.64,0.0,No complaint,,1536.64,False
+101047,2023-12-13,C0023,Electronics,Tablet A,441.24,1,Paid,441.24,0.0,Product Defect,1.0,441.24,False
+100471,2023-11-30,C0019, Smart Home ,NordLock Pro,180.99,1,Paid,180.99,0.0,No complaint,,180.99,False
+100303,2023-11-26,C0003, Smart Home ,NordLock Pro,224.82,1,Paid,224.82,0.0,No complaint,,224.82,False
+101002,2023-12-12,C0008,Electronics,Tablet A,318.91,1,Paid,318.91,0.0,No complaint,,318.91,False
+100570,2023-12-03,C0001, Accessories,Laptop Sleeve,19.23,1,Paid,19.23,0.0,No complaint,,19.23,False
+100058,2023-11-17,C0031,Electronics,TV Pro,914.97,1,Paid,914.97,0.0,No complaint,,914.97,False
+100395,2023-11-29,C0169,Electronics,NoiseCancel Headphones,180.76,1,Paid,180.76,0.0,Shipping Issue,1.0,180.76,False
+100093,2023-11-18,C0004,Electronics ,Smartphone Z,894.13,1,Paid,894.13,0.0,No complaint,,894.13,False
+100798,2023-12-08,C0004, Accessories ,Laptop Sleeve,41.56,1,Paid,41.56,0.0,No complaint,,41.56,False
+100573,2023-12-03,C0008,Electronics,Laptop X,1597.38,1,Paid,1597.38,0.0,No complaint,,1597.38,False
+100484,2023-12-01,C0137, Smart Home ,NordCam Mini,80.0,1,Paid,80.0,0.0,Shipping Issue,1.0,80.0,False
+100261,2023-11-25,C0010, Electronics ,NoiseCancel Headphones,258.75,1,Paid,258.75,258.75,"Shipping Issue, Product Defect",2.0,0.0,True
+100084,2023-11-18,C0001, Accessories,Wireless Mouse,56.31,1,Paid,56.31,0.0,No complaint,,56.31,False
+100592,2023-12-03,C0024,Smart Home,NordLock Pro,189.75,1,Paid,189.75,0.0,No complaint,,189.75,False
+100003,2023-11-15,C0059,Electronics,Laptop X,1446.04,1,Paid,1446.04,0.0,No complaint,,1446.04,False
+100042,2023-11-16,C0002,Accessories,Charger,18.8,3,Paid,56.400000000000006,0.0,No complaint,,56.400000000000006,False
+100327,2023-11-27,C0002,Electronics,Laptop X,1437.5,1,Paid,1437.5,0.0,No complaint,,1437.5,False
+100087,2023-11-18,C0002, Accessories,Accessory Bundle,32.79,1,Paid,32.79,0.0,No complaint,,32.79,False
+100457,2023-11-30,C0010,Accessories,Screen Protector,5.0,1,Paid,5.0,0.0,No complaint,,5.0,False
+100965,2023-12-11,C0279, Accessories ,Screen Protector,12.26,1,Paid,12.26,0.0,Shipping Issue,1.0,12.26,False
+101028,2023-12-12,C0044,Accessories,Wireless Mouse,31.71,1,Paid,31.71,0.0,Other,1.0,31.71,False
+100731,2023-12-06,C0002,Electronics,TV Pro,1405.31,2,Paid,2810.62,0.0,No complaint,,2810.62,False
+100852,2023-12-09,C0113, Accessories ,USB-C Cable,18.62,2,Paid,37.24,0.0,No complaint,,37.24,False
+100916,2023-12-10,C0003,Electronics ,Laptop X,1608.63,1,Paid,1608.63,0.0,No complaint,,1608.63,False
+101071,2023-12-13,C0013,Accessories,Wireless Mouse,26.47,2,Paid,52.94,0.0,Other,1.0,52.94,False
+101160,2023-11-25,C0004,Accessories,Phone Case,19.93,2,Paid,39.86,0.0,No complaint,,39.86,False
+100108,2023-11-19,C0008, Smart Home ,NordPlug,24.89,1,Paid,24.89,0.0,No complaint,,24.89,False
+100690,2023-12-06,C0003, Smart Home ,NordLock Pro,192.91,1,Paid,192.91,0.0,No complaint,,192.91,False
+100986,2023-12-11,C0178,Accessories,Charger,45.19,4,Paid,180.76,0.0,Shipping Issue,1.0,180.76,False
+100747,2023-12-07,C0006, Accessories ,Screen Protector,11.32,4,Paid,45.28,0.0,No complaint,,45.28,False
+101059,2023-12-13,C0002,Smart Home,NordLock Pro,202.54,1,Paid,202.54,0.0,No complaint,,202.54,False
+101184,2023-11-28,C0001,Smart Home,NordLock Pro,210.88,1,Paid,210.88,0.0,No complaint,,210.88,False
+100165,2023-11-22,C0001, Electronics ,Smartphone Z,771.06,1,Paid,771.06,0.0,No complaint,,771.06,False
+100779,2023-12-07,C0001,Electronics,TV Pro,916.41,1,Paid,916.41,0.0,No complaint,,916.41,False
+100039,2023-11-16,C0003,Accessories,Accessory Bundle,91.93,2,Paid,183.86,0.0,No complaint,,183.86,False
+100149,2023-11-21,C0001,Electronics,Tablet A,475.44,1,Paid,475.44,0.0,No complaint,,475.44,False
+100068,2023-11-17,C0004,Accessories,Accessory Bundle,84.63,2,Paid,169.26,0.0,No complaint,,169.26,False
+100260,2023-11-25,C0003, Electronics ,Smartphone Z,706.61,2,Paid,1413.22,0.0,No complaint,,1413.22,False
+100558,2023-12-03,C0008,Electronics,Tablet A,356.42,1,Paid,356.42,0.0,No complaint,,356.42,False
+100184,2023-11-22,C0028, Smart Home ,NordLock Pro,210.27,2,Paid,420.54,0.0,No complaint,,420.54,False
+101079,2023-12-13,C0003,Accessories,Charger,40.81,1,Paid,40.81,0.0,No complaint,,40.81,False
+101094,2023-12-14,C0030,Electronics,Laptop X,1326.3,2,Paid,2652.6,0.0,"Product Defect, Other",3.0,2652.6,False
+100944,2023-12-11,C0289,Electronics,NoiseCancel Headphones,157.39,1,Paid,157.39,0.0,No complaint,,157.39,False
+100054,2023-11-17,C0011,Electronics,Laptop X,1798.82,1,Paid,1798.82,0.0,No complaint,,1798.82,False
+100617,2023-12-04,C0002,Electronics,Tablet A,351.21,1,Paid,351.21,0.0,No complaint,,351.21,False
+100136,2023-11-20,C0256,Smart Home,NordTherm,85.0,2,Paid,170.0,0.0,No complaint,,170.0,False
+100974,2023-12-11,C0031,Accessories,Accessory Bundle,68.13,3,Paid,204.39,0.0,Product Defect,2.0,204.39,False
+100955,2023-12-11,C0002, Accessories,Screen Protector,5.43,1,Paid,5.43,0.0,No complaint,,5.43,False
+100221,2023-11-24,C0001, Electronics ,TV Pro,1386.66,1,Paid,1386.66,0.0,No complaint,,1386.66,False
+101060,2023-12-13,C0001,Electronics ,TV Pro,1293.65,1,Paid,1293.65,0.0,No complaint,,1293.65,False
+100726,2023-12-06,C0001,Electronics,NoiseCancel Headphones,302.52,1,Paid,302.52,0.0,No complaint,,302.52,False
+101151,2023-12-11,C0007, Accessories ,Accessory Bundle,44.45,1,Paid,44.45,0.0,No complaint,,44.45,False
+100861,2023-12-09,C0046,Smart Home,NordLock Pro,201.0,1,Paid,201.0,0.0,Product Defect,2.0,201.0,False
+100329,2023-11-27,C0001, Accessories ,Phone Case,12.21,2,Paid,24.42,0.0,No complaint,,24.42,False
+100835,2023-12-08,C0023,Electronics,Laptop X,1517.2,1,Paid,1517.2,0.0,No complaint,,1517.2,False
+100312,2023-11-26,C0148,Electronics,Laptop X,1691.9,1,Paid,1691.9,0.0,No complaint,,1691.9,False
+100377,2023-11-28,C0009,Accessories,USB-C Cable,19.51,1,Paid,19.51,0.0,No complaint,,19.51,False
+100639,2023-12-04,C0042,Smart Home,NordLock Pro,223.67,2,Paid,447.34,0.0,No complaint,,447.34,False
+101098,2023-12-14,C0001,Accessories,Charger,22.04,1,Paid,22.04,0.0,No complaint,,22.04,False
+100173,2023-11-22,C0008,Electronics,Smartphone Z,1043.81,1,Paid,1043.81,0.0,No complaint,,1043.81,False
+100883,2023-12-09,C0002,Electronics,Laptop X,1389.38,1,Paid,1389.38,0.0,No complaint,,1389.38,False
+100560,2023-12-03,C0196,Electronics,Smartphone Z,840.55,1,Paid,840.55,0.0,No complaint,,840.55,False
+100289,2023-11-25,C0005, Smart Home ,NordLock Pro,249.63,2,Paid,499.26,0.0,No complaint,,499.26,False
+100294,2023-11-25,C0002, Accessories,USB-C Cable,13.57,2,Paid,27.14,0.0,No complaint,,27.14,False
+100435,2023-11-29,C0008,Accessories,Screen Protector,8.41,3,Paid,25.23,0.0,No complaint,,25.23,False
+101154,2023-12-11,C0015,Smart Home,NordLock Pro,241.95,1,Paid,241.95,0.0,No complaint,,241.95,False
+100666,2023-12-05,C0001,Accessories,Laptop Sleeve,22.57,4,Paid,90.28,0.0,No complaint,,90.28,False
+100270,2023-11-25,C0031,Accessories,Laptop Sleeve,17.02,2,Paid,34.04,0.0,No complaint,,34.04,False
+101087,2023-12-14,C0009, Electronics ,Tablet A,484.26,1,Paid,484.26,0.0,No complaint,,484.26,False
+100321,2023-11-27,C0004, Accessories ,Accessory Bundle,51.76,1,Paid,51.76,0.0,No complaint,,51.76,False
+100462,2023-11-30,C0009,Electronics,Laptop X,1389.57,1,Paid,1389.57,0.0,No complaint,,1389.57,False
+100218,2023-11-23,C0004,Electronics,Smartphone Z,989.29,2,Paid,1978.58,0.0,No complaint,,1978.58,False
+100083,2023-11-18,C0002,Smart Home,NordLock Pro,215.0,1,Paid,215.0,0.0,No complaint,,215.0,False
+100273,2023-11-25,C0002,Electronics,Laptop X,1374.89,1,Paid,1374.89,0.0,No complaint,,1374.89,False
+100637,2023-12-04,C0003,Electronics,Smartphone Z,713.0,1,Paid,713.0,0.0,No complaint,,713.0,False
+101103,2023-12-14,C0103, Accessories,Accessory Bundle,63.95,1,Paid,63.95,0.0,"Product Defect, Other",2.0,63.95,False
+100178,2023-11-22,C0025,Electronics,NoiseCancel Headphones,252.35,1,Paid,252.35,0.0,No complaint,,252.35,False
+100593,2023-12-03,C0297,Accessories,Laptop Sleeve,27.83,1,Paid,27.83,0.0,No complaint,,27.83,False
+100401,2023-11-29,C0017,Accessories,Phone Case,10.0,1,Paid,10.0,0.0,No complaint,,10.0,False
+100438,2023-11-30,C0010, Accessories,Charger,20.58,1,Paid,20.58,0.0,No complaint,,20.58,False
+100600,2023-12-04,C0043,Accessories,Phone Case,32.88,1,Paid,32.88,0.0,No complaint,,32.88,False
+100753,2023-12-07,C0040, Electronics ,Tablet A,436.32,1,Paid,436.32,0.0,No complaint,,436.32,False
+100765,2023-12-07,C0080,Electronics,Laptop X,1361.87,1,Paid,1361.87,0.0,No complaint,,1361.87,False
+100782,2023-12-07,C0001,Smart Home,NordLock Pro,201.0,2,Paid,402.0,0.0,No complaint,,402.0,False
+101064,2023-12-13,C0002,Accessories,Phone Case,16.39,3,Paid,49.17,0.0,No complaint,,49.17,False
+100936,2023-12-11,C0151,Electronics,TV Pro,1641.8,1,Paid,1641.8,0.0,Shipping Issue,1.0,1641.8,False
+100489,2023-12-01,C0015,Electronics,Tablet A,559.0,2,Paid,1118.0,0.0,No complaint,,1118.0,False
+100238,2023-11-24,C0270,Accessories,USB-C Cable,17.0,1,Paid,17.0,0.0,No complaint,,17.0,False
+100026,2023-11-16,C0091,Electronics,NoiseCancel Headphones,192.39,1,Paid,192.39,0.0,No complaint,,192.39,False
+100244,2023-11-24,C0002,Electronics ,NoiseCancel Headphones,229.51,1,Paid,229.51,0.0,No complaint,,229.51,False
+100828,2023-12-08,C0001, Accessories,Screen Protector,13.81,2,Paid,27.62,0.0,No complaint,,27.62,False
+100976,2023-12-11,C0008,Electronics ,Tablet A,365.96,1,Paid,365.96,0.0,No complaint,,365.96,False
+100427,2023-11-29,C0001,Electronics,TV Pro,1187.16,1,Paid,1187.16,0.0,No complaint,,1187.16,False
+100023,2023-11-16,C0016, Accessories ,Accessory Bundle,30.78,1,Paid,30.78,0.0,No complaint,,30.78,False
+100256,2023-11-24,C0002, Smart Home ,NordLock Pro,235.74,1,Paid,235.74,0.0,No complaint,,235.74,False
+100293,2023-11-25,C0001, Accessories,Charger,40.76,1,Paid,40.76,0.0,No complaint,,40.76,False
+100811,2023-12-08,C0008, Electronics ,NoiseCancel Headphones,161.34,1,Paid,161.34,0.0,No complaint,,161.34,False
+100295,2023-11-25,C0001,Electronics,Smartphone Z,789.49,1,Paid,789.49,0.0,No complaint,,789.49,False
+100785,2023-12-07,C0034,Electronics,Smartphone Z,1072.68,1,Paid,1072.68,0.0,No complaint,,1072.68,False
+100122,2023-11-20,C0113, Accessories,Phone Case,33.56,1,Paid,33.56,0.0,No complaint,,33.56,False
+100807,2023-12-08,C0007,Accessories,USB-C Cable,12.72,1,Paid,12.72,0.0,No complaint,,12.72,False
+100953,2023-12-11,C0015,Smart Home,NordLock Pro,241.95,1,Paid,241.95,0.0,No complaint,,241.95,False
+101084,2023-12-13,C0225,Accessories,Laptop Sleeve,20.38,2,Paid,40.76,0.0,No complaint,,40.76,False
+100317,2023-11-27,C0001,Electronics,Smartphone Z,724.77,1,Paid,724.77,0.0,No complaint,,724.77,False
+100503,2023-12-01,C0122,Smart Home,NordLock Pro,207.18,1,Paid,207.18,0.0,"Refund Request, Shipping Issue, Product Defect, Other",5.0,207.18,False
+100190,2023-11-22,C0215,Electronics,Smartphone Z,846.71,2,Paid,1693.42,0.0,No complaint,,1693.42,False
+100763,2023-12-07,C0001,Accessories,USB-C Cable,16.94,1,Paid,16.94,0.0,No complaint,,16.94,False
+100171,2023-11-22,C0090,Accessories,Charger,28.87,4,Paid,115.48,0.0,No complaint,,115.48,False
+100155,2023-11-21,C0003,Electronics ,TV Pro,1019.81,1,Paid,1019.81,0.0,No complaint,,1019.81,False
+100177,2023-11-22,C0002,Electronics,NoiseCancel Headphones,309.0,1,Paid,309.0,0.0,No complaint,,309.0,False
+100350,2023-11-27,C0038, Accessories ,Charger,34.12,2,Paid,68.24,0.0,Other,1.0,68.24,False
+100583,2023-12-03,C0001, Electronics ,TV Pro,1181.73,1,Paid,1181.73,0.0,No complaint,,1181.73,False
+101191,2023-11-15,C0002,Electronics,Tablet A,488.25,1,Paid,488.25,0.0,No complaint,,488.25,False
+101035,2023-12-12,C0001, Smart Home ,NordLock Pro,195.28,2,Paid,390.56,0.0,Shipping Issue,1.0,390.56,False
+101031,2023-12-12,C0020,Smart Home,NordLock Pro,205.55,1,Paid,205.55,0.0,No complaint,,205.55,False
+100524,2023-12-02,C0104, Accessories ,Wireless Mouse,18.15,1,Paid,18.15,0.0,No complaint,,18.15,False
+100777,2023-12-07,C0206, Accessories ,Phone Case,16.43,1,Paid,16.43,0.0,No complaint,,16.43,False
+101175,2023-12-07,C0004,Electronics,Smartphone Z,893.14,1,Paid,893.14,0.0,No complaint,,893.14,False
+100607,2023-12-04,C0054,Electronics ,Laptop X,1698.65,1,Paid,1698.65,0.0,Refund Request,1.0,1698.65,False
+100983,2023-12-11,C0038,Accessories,Laptop Sleeve,38.52,2,Paid,77.04,0.0,No complaint,,77.04,False
+100562,2023-12-03,C0142, Accessories ,USB-C Cable,17.33,1,Paid,17.33,0.0,No complaint,,17.33,False
+100842,2023-12-08,C0007,Electronics,Laptop X,1714.94,1,Paid,1714.94,1714.94,No complaint,,0.0,True
+101187,2023-11-29,C0017, Smart Home ,NordTherm,83.85,1,Paid,83.85,0.0,No complaint,,83.85,False
+100630,2023-12-04,C0069,Accessories,Wireless Mouse,13.89,1,Paid,13.89,0.0,Other,1.0,13.89,False
+100898,2023-12-10,C0001,Smart Home,NordLock Pro,241.97,1,Paid,241.97,0.0,No complaint,,241.97,False
+100067,2023-11-17,C0003,Accessories,Wireless Mouse,56.08,1,Paid,56.08,56.08,No complaint,,0.0,True
+100714,2023-12-06,C0001,Accessories,Screen Protector,12.92,1,Paid,12.92,0.0,No complaint,,12.92,False
+100958,2023-12-11,C0001,Accessories,Charger,43.0,3,Paid,129.0,0.0,No complaint,,129.0,False
+100696,2023-12-06,C0135, Smart Home ,NordLock Pro,225.0,2,Paid,450.0,0.0,"Shipping Issue, Product Defect",3.0,450.0,False
+100334,2023-11-27,C0005,Electronics,Tablet A,322.05,1,Paid,322.05,0.0,No complaint,,322.05,False
+100733,2023-12-06,C0050, Accessories,Charger,48.23,3,Paid,144.69,0.0,No complaint,,144.69,False
+100913,2023-12-10,C0001,Accessories,Wireless Mouse,19.15,1,Paid,19.15,0.0,Product Defect,1.0,19.15,False
+100644,2023-12-04,C0301, Accessories,USB-C Cable,9.53,2,Paid,19.06,0.0,Other,3.0,19.06,False
+100541,2023-12-02,C0020,Accessories,Wireless Mouse,58.32,1,Paid,58.32,0.0,No complaint,,58.32,False
+100621,2023-12-04,C0003,Electronics,Laptop X,1776.33,1,Paid,1776.33,0.0,No complaint,,1776.33,False
+100577,2023-12-03,C0002, Smart Home ,NordLock Pro,213.5,2,Paid,427.0,427.0,No complaint,,0.0,True
+100045,2023-11-17,C0115,Electronics,TV Pro,1532.19,1,Paid,1532.19,0.0,No complaint,,1532.19,False
+100080,2023-11-18,C0002,Accessories,Accessory Bundle,35.86,2,Paid,71.72,0.0,No complaint,,71.72,False
+100911,2023-12-10,C0003,Electronics,NoiseCancel Headphones,254.21,1,Paid,254.21,0.0,No complaint,,254.21,False
+100990,2023-12-12,C0157, Electronics ,NoiseCancel Headphones,328.41,2,Paid,656.82,0.0,Shipping Issue,1.0,656.82,False
+100634,2023-12-04,C0002,Electronics,Smartphone Z,810.82,1,Paid,810.82,0.0,No complaint,,810.82,False
+100118,2023-11-19,C0068,Accessories,Laptop Sleeve,38.0,1,Paid,38.0,0.0,No complaint,,38.0,False
+100906,2023-12-10,C0048, Electronics ,NoiseCancel Headphones,158.01,1,Paid,158.01,0.0,No complaint,,158.01,False
+100332,2023-11-27,C0002,Electronics,Laptop X,1608.06,1,Paid,1608.06,0.0,No complaint,,1608.06,False
+101117,2023-12-14,C0018, Accessories,Charger,27.0,2,Paid,54.0,0.0,No complaint,,54.0,False
+100755,2023-12-07,C0003, Accessories,Accessory Bundle,76.3,2,Paid,152.6,0.0,No complaint,,152.6,False
+100483,2023-12-01,C0001,Smart Home,NordLock Pro,216.17,1,Paid,216.17,0.0,No complaint,,216.17,False
+100047,2023-11-17,C0006,Smart Home,NordLock Pro,208.67,1,Paid,208.67,0.0,No complaint,,208.67,False
+100605,2023-12-04,C0013,Smart Home,NordTherm,142.49,1,Paid,142.49,0.0,No complaint,,142.49,False
+100124,2023-11-20,C0004,Electronics,NoiseCancel Headphones,233.73,1,Paid,233.73,0.0,No complaint,,233.73,False
+100240,2023-11-24,C0018,Accessories,USB-C Cable,13.43,2,Paid,26.86,0.0,Shipping Issue,1.0,26.86,False
+100027,2023-11-16,C0004,Electronics ,NoiseCancel Headphones,170.89,1,Paid,170.89,0.0,No complaint,,170.89,False
+101168,2023-11-28,C0004, Smart Home ,NordLock Pro,246.71,1,Paid,246.71,0.0,No complaint,,246.71,False
+100057,2023-11-17,C0061,Electronics,TV Pro,1046.02,1,Paid,1046.02,0.0,No complaint,,1046.02,False
+101072,2023-12-13,C0001,Smart Home,NordLock Pro,212.32,1,Paid,212.32,0.0,No complaint,,212.32,False
+100709,2023-12-06,C0001,Accessories,Wireless Mouse,54.54,3,Paid,163.62,0.0,No complaint,,163.62,False
+101045,2023-12-13,C0027,Smart Home,NordPlug,32.53,2,Paid,65.06,0.0,No complaint,,65.06,False
+100379,2023-11-28,C0001,Accessories,Accessory Bundle,67.03,2,Paid,134.06,0.0,No complaint,,134.06,False
+100316,2023-11-26,C0002,Electronics,Tablet A,597.79,1,Paid,597.79,0.0,No complaint,,597.79,False
+100907,2023-12-10,C0005,Electronics ,TV Pro,1352.21,1,Paid,1352.21,0.0,No complaint,,1352.21,False
+100180,2023-11-22,C0006,Electronics ,NoiseCancel Headphones,228.54,1,Paid,228.54,0.0,No complaint,,228.54,False
+101018,2023-12-12,C0002, Accessories ,USB-C Cable,15.31,2,Paid,30.62,0.0,No complaint,,30.62,False
+101088,2023-12-14,C0006,Accessories,USB-C Cable,14.75,1,Paid,14.75,0.0,Product Defect,1.0,14.75,False
+100515,2023-12-02,C0243,Electronics,Tablet A,533.0,1,Paid,533.0,0.0,No complaint,,533.0,False
+100693,2023-12-06,C0001, Accessories,Laptop Sleeve,26.83,2,Paid,53.66,0.0,No complaint,,53.66,False
+100682,2023-12-05,C0223, Accessories,Screen Protector,7.5,2,Paid,15.0,0.0,Product Defect,2.0,15.0,False
+101037,2023-12-12,C0003,Electronics,NoiseCancel Headphones,308.13,1,Paid,308.13,308.13,No complaint,,0.0,True
+100106,2023-11-19,C0020, Accessories,USB-C Cable,14.99,2,Paid,29.98,0.0,No complaint,,29.98,False
+100786,2023-12-07,C0112,Smart Home,NordLock Pro,245.31,1,Paid,245.31,245.31,Other,1.0,0.0,True
+100821,2023-12-08,C0001,Accessories,Screen Protector,6.18,1,Paid,6.18,0.0,No complaint,,6.18,False
+101148,2023-11-27,C0220, Accessories ,Phone Case,31.01,4,Paid,124.04,0.0,No complaint,,124.04,False
+100789,2023-12-07,C0030,Electronics ,Laptop X,1363.0,1,Paid,1363.0,0.0,No complaint,,1363.0,False
+100448,2023-11-30,C0001, Accessories ,Screen Protector,13.04,2,Paid,26.08,0.0,No complaint,,26.08,False
+100041,2023-11-16,C0007, Accessories ,Accessory Bundle,96.52,1,Paid,96.52,0.0,No complaint,,96.52,False
+100533,2023-12-02,C0034, Accessories,Laptop Sleeve,32.3,3,Paid,96.89999999999999,0.0,No complaint,,96.89999999999999,False
+100301,2023-11-26,C0046,Accessories,Charger,15.37,1,Paid,15.37,15.37,No complaint,,0.0,True
+100434,2023-11-29,C0005,Electronics,NoiseCancel Headphones,344.0,1,Paid,344.0,0.0,No complaint,,344.0,False
+100802,2023-12-08,C0183,Smart Home,NordLock Pro,200.86,1,Paid,200.86,200.86,No complaint,,0.0,True
+101126,2023-12-14,C0001,Smart Home,NordLock Pro,206.17,1,Paid,206.17,0.0,No complaint,,206.17,False
+100619,2023-12-04,C0001,Electronics,TV Pro,1574.14,1,Paid,1574.14,0.0,No complaint,,1574.14,False
+100633,2023-12-04,C0040,Accessories,USB-C Cable,13.0,3,Paid,39.0,0.0,No complaint,,39.0,False
+101029,2023-12-12,C0001,Accessories,Laptop Sleeve,37.26,2,Paid,74.52,0.0,No complaint,,74.52,False
+101081,2023-12-13,C0004, Smart Home ,NordPlug,21.26,1,Paid,21.26,0.0,No complaint,,21.26,False
+100297,2023-11-26,C0015,Smart Home,NordLock Pro,248.0,1,Paid,248.0,0.0,No complaint,,248.0,False
+101155,2023-12-08,C0042,Electronics,Laptop X,1620.72,1,Paid,1620.72,0.0,No complaint,,1620.72,False
+100703,2023-12-06,C0001,Smart Home,NordLock Pro,225.82,1,Paid,225.82,0.0,No complaint,,225.82,False
+100594,2023-12-03,C0147,Electronics,Tablet A,724.89,1,Paid,724.89,0.0,Other,1.0,724.89,False
+100971,2023-12-11,C0002,Electronics,TV Pro,1667.73,1,Paid,1667.73,0.0,No complaint,,1667.73,False
+100299,2023-11-26,C0018,Electronics,NoiseCancel Headphones,281.5,1,Paid,281.5,0.0,No complaint,,281.5,False
+101095,2023-12-14,C0002,Smart Home,NordLock Pro,238.51,1,Paid,238.51,0.0,No complaint,,238.51,False
+100905,2023-12-10,C0311,Electronics,TV Pro,1080.0,1,Paid,1080.0,0.0,No complaint,,1080.0,False
+100208,2023-11-23,C0002,Accessories,USB-C Cable,11.04,1,Paid,11.04,0.0,No complaint,,11.04,False
+100704,2023-12-06,C0010, Smart Home ,NordLock Pro,241.0,1,Paid,241.0,0.0,No complaint,,241.0,False
+100896,2023-12-10,C0001,Accessories,USB-C Cable,18.6,1,Paid,18.6,0.0,No complaint,,18.6,False
+101132,2023-12-14,C0001,Electronics,Tablet A,589.01,1,Paid,589.01,0.0,No complaint,,589.01,False
+100144,2023-11-21,C0001, Accessories ,Laptop Sleeve,31.36,3,Paid,94.08,0.0,No complaint,,94.08,False
+100251,2023-11-24,C0001,Accessories,Charger,41.99,3,Paid,125.97,0.0,No complaint,,125.97,False
+100514,2023-12-01,C0095,Electronics ,Laptop X,1623.0,1,Paid,1623.0,0.0,No complaint,,1623.0,False
+100978,2023-12-11,C0003,Electronics,NoiseCancel Headphones,279.88,1,Paid,279.88,0.0,No complaint,,279.88,False
+100824,2023-12-08,C0007,Electronics,Tablet A,524.82,1,Paid,524.82,0.0,No complaint,,524.82,False
+101082,2023-12-13,C0014, Smart Home ,NordLock Pro,231.99,1,Paid,231.99,0.0,No complaint,,231.99,False
+100717,2023-12-06,C0001, Accessories ,Phone Case,39.48,1,Paid,39.48,0.0,No complaint,,39.48,False
+100732,2023-12-06,C0001,Electronics,TV Pro,1144.44,1,Paid,1144.44,0.0,No complaint,,1144.44,False
+100164,2023-11-22,C0015, Electronics ,Smartphone Z,845.23,1,Paid,845.23,0.0,No complaint,,845.23,False
+100501,2023-12-01,C0002,Electronics,NoiseCancel Headphones,255.15,1,Paid,255.15,0.0,No complaint,,255.15,False
+100264,2023-11-25,C0316, Smart Home ,NordLock Pro,208.11,1,Paid,208.11,0.0,No complaint,,208.11,False
+100082,2023-11-18,C0001,Electronics,Laptop X,1457.02,2,Paid,2914.04,0.0,No complaint,,2914.04,False
+101142,2023-11-17,C0061,Electronics,TV Pro,1046.02,1,Paid,1046.02,0.0,No complaint,,1046.02,False
+100768,2023-12-07,C0001, Accessories,Accessory Bundle,55.24,1,Paid,55.24,0.0,No complaint,,55.24,False
+100325,2023-11-27,C0125,Smart Home,NordLock Pro,220.55,1,Paid,220.55,0.0,Shipping Issue,1.0,220.55,False
+100473,2023-11-30,C0004,Electronics,NoiseCancel Headphones,316.19,1,Paid,316.19,0.0,No complaint,,316.19,False
+100564,2023-12-03,C0001,Smart Home,NordLock Pro,223.08,1,Paid,223.08,0.0,No complaint,,223.08,False
+100145,2023-11-21,C0170,Accessories,Charger,30.35,2,Paid,60.7,0.0,No complaint,,60.7,False
+100663,2023-12-05,C0066,Smart Home,NordLock Pro,200.01,1,Paid,200.01,200.01,"Other, Product Defect",3.0,0.0,True
+100814,2023-12-08,C0001,Smart Home,NordLock Pro,181.89,1,Paid,181.89,0.0,No complaint,,181.89,False
+100275,2023-11-25,C0004,Accessories,Phone Case,19.93,2,Paid,39.86,0.0,No complaint,,39.86,False
+100673,2023-12-05,C0016,Electronics,Tablet A,507.23,1,Paid,507.23,0.0,No complaint,,507.23,False
+100793,2023-12-07,C0083,Accessories,USB-C Cable,19.69,2,Paid,39.38,0.0,No complaint,,39.38,False
+100752,2023-12-07,C0271, Smart Home ,NordLock Pro,212.22,2,Paid,424.44,0.0,Other,2.0,424.44,False
+100730,2023-12-06,C0115,Accessories,Wireless Mouse,58.87,1,Paid,58.87,0.0,Other,1.0,58.87,False
+100609,2023-12-04,C0004,Smart Home,NordCam Mini,62.0,1,Paid,62.0,0.0,No complaint,,62.0,False
+100825,2023-12-08,C0021,Electronics,Tablet A,652.84,1,Paid,652.84,0.0,No complaint,,652.84,False
+100088,2023-11-18,C0027,Accessories,Charger,20.2,1,Paid,20.2,0.0,No complaint,,20.2,False
+100945,2023-12-11,C0012,Electronics,Tablet A,736.42,2,Paid,1472.84,0.0,No complaint,,1472.84,False
+100853,2023-12-09,C0042, Electronics ,Smartphone Z,1004.0,1,Paid,1004.0,0.0,No complaint,,1004.0,False
+100307,2023-11-26,C0003,Electronics,Smartphone Z,912.54,1,Paid,912.54,0.0,No complaint,,912.54,False
+100552,2023-12-02,C0145,Electronics,TV Pro,1419.0,1,Paid,1419.0,0.0,No complaint,,1419.0,False
+100188,2023-11-22,C0001,Electronics ,Smartphone Z,851.41,1,Paid,851.41,0.0,No complaint,,851.41,False
+100892,2023-12-10,C0009,Accessories,Wireless Mouse,25.68,1,Paid,25.68,0.0,No complaint,,25.68,False
+100288,2023-11-25,C0003, Accessories,Charger,29.37,1,Paid,29.37,0.0,No complaint,,29.37,False
+100871,2023-12-09,C0075, Smart Home ,NordLock Pro,185.47,1,Paid,185.47,0.0,Product Defect,1.0,185.47,False
+100668,2023-12-05,C0030,Electronics ,Laptop X,1686.77,1,Paid,1686.77,0.0,No complaint,,1686.77,False
+101061,2023-12-13,C0001, Accessories ,Screen Protector,8.08,2,Paid,16.16,0.0,No complaint,,16.16,False
+100756,2023-12-07,C0001, Accessories,Charger,43.27,1,Paid,43.27,0.0,No complaint,,43.27,False
+100372,2023-11-28,C0005,Accessories,Accessory Bundle,36.7,2,Paid,73.4,0.0,No complaint,,73.4,False
+100050,2023-11-17,C0003,Electronics,Tablet A,336.05,2,Paid,672.1,0.0,No complaint,,672.1,False
+100454,2023-11-30,C0006, Electronics ,Smartphone Z,1061.74,1,Paid,1061.74,0.0,No complaint,,1061.74,False
+100549,2023-12-02,C0001,Smart Home,NordLock Pro,190.1,1,Paid,190.1,0.0,No complaint,,190.1,False
+100248,2023-11-24,C0001,Accessories,Wireless Mouse,26.62,1,Paid,26.62,0.0,No complaint,,26.62,False
+101195,2023-11-23,C0002, Electronics ,Laptop X,1577.0,1,Paid,1577.0,0.0,No complaint,,1577.0,False
+100398,2023-11-29,C0019,Smart Home,NordLock Pro,201.64,1,Paid,201.64,0.0,No complaint,,201.64,False
+100865,2023-12-09,C0055,Electronics ,Tablet A,772.98,1,Paid,772.98,0.0,Other,1.0,772.98,False
+100662,2023-12-05,C0004,Smart Home,NordLock Pro,238.67,1,Paid,238.67,0.0,No complaint,,238.67,False
+100833,2023-12-08,C0027, Electronics ,NoiseCancel Headphones,248.37,1,Paid,248.37,0.0,No complaint,,248.37,False
+101124,2023-12-14,C0197,Accessories,Screen Protector,12.14,1,Paid,12.14,0.0,No complaint,,12.14,False
+100838,2023-12-08,C0003, Smart Home ,NordLock Pro,188.83,1,Paid,188.83,0.0,Product Defect,1.0,188.83,False
+100034,2023-11-16,C0001, Accessories,Accessory Bundle,34.22,2,Paid,68.44,0.0,No complaint,,68.44,False
+100089,2023-11-18,C0002, Accessories ,Screen Protector,12.91,1,Paid,12.91,0.0,No complaint,,12.91,False
+100357,2023-11-28,C0208,Electronics,Smartphone Z,1034.43,1,Paid,1034.43,0.0,Product Defect,1.0,1034.43,False
+100567,2023-12-03,C0001,Electronics,Tablet A,631.82,1,Paid,631.82,0.0,No complaint,,631.82,False
+100918,2023-12-10,C0035,Accessories,Accessory Bundle,98.54,1,Paid,98.54,98.54,Product Defect,1.0,0.0,True
+100517,2023-12-02,C0117,Accessories,Phone Case,33.43,1,Paid,33.43,0.0,No complaint,,33.43,False
+100085,2023-11-18,C0020, Accessories ,Charger,45.43,2,Paid,90.86,0.0,No complaint,,90.86,False
+100773,2023-12-07,C0004,Electronics,Smartphone Z,893.14,1,Paid,893.14,0.0,No complaint,,893.14,False
+100347,2023-11-27,C0006, Electronics ,TV Pro,937.66,2,Paid,1875.32,0.0,No complaint,,1875.32,False
+100539,2023-12-02,C0008,Electronics,TV Pro,1441.81,1,Paid,1441.81,0.0,No complaint,,1441.81,False
+100132,2023-11-20,C0001, Electronics ,Laptop X,1612.31,2,Paid,3224.62,0.0,No complaint,,3224.62,False
+100376,2023-11-28,C0006,Smart Home,NordLock Pro,224.2,1,Paid,224.2,0.0,No complaint,,224.2,False
+101034,2023-12-12,C0214, Accessories,Charger,15.36,2,Paid,30.72,0.0,No complaint,,30.72,False
+100822,2023-12-08,C0242,Smart Home,NordLock Pro,200.64,1,Paid,200.64,0.0,No complaint,,200.64,False
+100362,2023-11-28,C0004, Accessories,Charger,43.85,2,Paid,87.7,0.0,No complaint,,87.7,False
+100428,2023-11-29,C0027, Accessories,Accessory Bundle,69.78,1,Paid,69.78,0.0,No complaint,,69.78,False
+101032,2023-12-12,C0125,Accessories,Phone Case,38.23,2,Paid,76.46,0.0,Product Defect,1.0,76.46,False
+100342,2023-11-27,C0024,Accessories,Phone Case,36.96,2,Paid,73.92,0.0,No complaint,,73.92,False
+100498,2023-12-01,C0013,Accessories,Screen Protector,9.2,1,Paid,9.2,0.0,No complaint,,9.2,False
+100758,2023-12-07,C0057,Smart Home,NordLock Pro,239.23,1,Paid,239.23,0.0,Other,1.0,239.23,False
+101020,2023-12-12,C0013, Accessories ,Screen Protector,12.92,1,Paid,12.92,0.0,No complaint,,12.92,False
+101146,2023-12-03,C0002,Smart Home,NordLock Pro,192.26,1,Paid,192.26,0.0,No complaint,,192.26,False
+100063,2023-11-17,C0046,Electronics,TV Pro,1698.27,1,Paid,1698.27,0.0,No complaint,,1698.27,False
+100636,2023-12-04,C0008, Accessories,Accessory Bundle,37.42,4,Paid,149.68,0.0,No complaint,,149.68,False
+100914,2023-12-10,C0118,Accessories,USB-C Cable,14.98,1,Paid,14.98,0.0,"Refund Request, Product Defect",2.0,14.98,False
+100468,2023-11-30,C0001,Electronics,TV Pro,958.27,1,Paid,958.27,0.0,No complaint,,958.27,False
+100220,2023-11-24,C0073,Accessories,Accessory Bundle,44.98,2,Paid,89.96,0.0,Other,1.0,89.96,False
+100443,2023-11-30,C0009,Electronics,Tablet A,487.7,1,Paid,487.7,0.0,No complaint,,487.7,False
+100153,2023-11-21,C0106, Electronics ,Laptop X,1426.23,1,Paid,1426.23,0.0,No complaint,,1426.23,False
+100326,2023-11-27,C0019,Smart Home,NordLock Pro,238.66,1,Paid,238.66,0.0,No complaint,,238.66,False
+100308,2023-11-26,C0301, Accessories,Charger,42.0,1,Paid,42.0,0.0,No complaint,,42.0,False
+100859,2023-12-09,C0047,Electronics ,TV Pro,1295.1,1,Paid,1295.1,0.0,"Product Defect, Other",2.0,1295.1,False
+100613,2023-12-04,C0005,Electronics,Smartphone Z,701.94,1,Paid,701.94,0.0,No complaint,,701.94,False
+100585,2023-12-03,C0067, Smart Home ,NordTherm,84.35,1,Paid,84.35,0.0,No complaint,,84.35,False
+100606,2023-12-04,C0003,Accessories,Screen Protector,5.0,2,Paid,10.0,10.0,No complaint,,0.0,True
+100204,2023-11-23,C0239,Electronics,NoiseCancel Headphones,204.43,1,Paid,204.43,0.0,No complaint,,204.43,False
+100772,2023-12-07,C0001, Accessories,Charger,43.23,1,Paid,43.23,0.0,No complaint,,43.23,False
+100399,2023-11-29,C0262,Electronics,NoiseCancel Headphones,186.48,1,Paid,186.48,0.0,No complaint,,186.48,False
+100005,2023-11-15,C0003,Electronics,Tablet A,553.75,1,Paid,553.75,0.0,No complaint,,553.75,False
+101147,2023-11-24,C0276, Smart Home ,NordLock Pro,205.21,1,Paid,205.21,205.21,"Product Defect, Shipping Issue, Other, Refund Request",4.0,0.0,True
+100893,2023-12-10,C0224, Accessories ,Accessory Bundle,47.39,1,Paid,47.39,0.0,No complaint,,47.39,False
+100900,2023-12-10,C0001, Accessories ,USB-C Cable,11.88,1,Paid,11.88,0.0,No complaint,,11.88,False
+100130,2023-11-20,C0271,Electronics,Laptop X,1394.09,1,Paid,1394.09,0.0,No complaint,,1394.09,False
+100701,2023-12-06,C0120,Accessories,USB-C Cable,17.86,2,Paid,35.72,0.0,No complaint,,35.72,False
+100845,2023-12-09,C0001, Smart Home ,NordLock Pro,202.58,1,Paid,202.58,0.0,No complaint,,202.58,False
+100994,2023-12-12,C0023,Smart Home,NordLock Pro,192.7,1,Paid,192.7,0.0,No complaint,,192.7,False
+100458,2023-11-30,C0030,Smart Home,NordLock Pro,214.91,1,Paid,214.91,0.0,No complaint,,214.91,False
+100072,2023-11-18,C0001, Accessories,Phone Case,25.0,1,Paid,25.0,0.0,No complaint,,25.0,False
+101053,2023-12-13,C0004,Electronics,TV Pro,1346.87,1,Paid,1346.87,0.0,No complaint,,1346.87,False
+100672,2023-12-05,C0007,Electronics,NoiseCancel Headphones,196.0,1,Paid,196.0,0.0,No complaint,,196.0,False
+100656,2023-12-05,C0001,Smart Home,NordLock Pro,210.0,1,Paid,210.0,0.0,No complaint,,210.0,False
+101164,2023-11-29,C0296,Accessories,Accessory Bundle,52.01,2,Paid,104.02,0.0,No complaint,,104.02,False
+100262,2023-11-25,C0033, Electronics ,Smartphone Z,948.32,1,Paid,948.32,0.0,No complaint,,948.32,False
+101043,2023-12-13,C0002,Accessories,Accessory Bundle,46.99,2,Paid,93.98,0.0,No complaint,,93.98,False
+100538,2023-12-02,C0007, Accessories,Accessory Bundle,82.45,2,Paid,164.9,0.0,No complaint,,164.9,False
+100203,2023-11-23,C0079, Accessories ,USB-C Cable,11.15,1,Paid,11.15,0.0,No complaint,,11.15,False
+101152,2023-11-24,C0126,Accessories,USB-C Cable,9.1,1,Paid,9.1,0.0,No complaint,,9.1,False
+100071,2023-11-17,C0035,Accessories,USB-C Cable,15.0,4,Paid,60.0,0.0,No complaint,,60.0,False
+101128,2023-12-14,C0283,Electronics,TV Pro,1490.5,1,Paid,1490.5,0.0,No complaint,,1490.5,False
+100954,2023-12-11,C0187,Accessories,Accessory Bundle,97.99,2,Paid,195.98,0.0,Shipping Issue,1.0,195.98,False
+100128,2023-11-20,C0120,Accessories,Phone Case,33.65,1,Paid,33.65,0.0,No complaint,,33.65,False
+100371,2023-11-28,C0013,Electronics,Smartphone Z,922.19,1,Paid,922.19,0.0,No complaint,,922.19,False
+100135,2023-11-20,C0098,Electronics,Laptop X,1417.96,1,Paid,1417.96,0.0,No complaint,,1417.96,False
+100485,2023-12-01,C0060,Electronics ,NoiseCancel Headphones,327.51,1,Paid,327.51,0.0,No complaint,,327.51,False
+100816,2023-12-08,C0031,Smart Home,NordLock Pro,207.28,1,Paid,207.28,207.28,Shipping Issue,1.0,0.0,True
+100222,2023-11-24,C0070, Accessories ,Wireless Mouse,39.86,1,Paid,39.86,0.0,No complaint,,39.86,False
+101093,2023-12-14,C0001,Electronics,NoiseCancel Headphones,307.32,1,Paid,307.32,0.0,No complaint,,307.32,False
+101050,2023-12-13,C0012, Electronics ,NoiseCancel Headphones,223.42,1,Paid,223.42,0.0,No complaint,,223.42,False
+101129,2023-12-14,C0001,Electronics,TV Pro,932.28,1,Paid,932.28,0.0,No complaint,,932.28,False
+100697,2023-12-06,C0001,Electronics,TV Pro,1320.84,2,Paid,2641.68,0.0,No complaint,,2641.68,False
+100406,2023-11-29,C0143,Electronics,Tablet A,349.95,1,Paid,349.95,0.0,No complaint,,349.95,False
+100736,2023-12-06,C0002,Smart Home,NordTherm,85.29,1,Paid,85.29,0.0,No complaint,,85.29,False
+100531,2023-12-02,C0004,Accessories,Wireless Mouse,23.82,1,Paid,23.82,0.0,No complaint,,23.82,False
+101090,2023-12-14,C0002,Smart Home,NordLock Pro,219.32,1,Paid,219.32,0.0,No complaint,,219.32,False
+100602,2023-12-04,C0007,Electronics ,Tablet A,529.46,1,Paid,529.46,0.0,No complaint,,529.46,False
+100211,2023-11-23,C0005, Electronics ,Smartphone Z,988.0,1,Paid,988.0,0.0,No complaint,,988.0,False
+100388,2023-11-28,C0001,Electronics,Tablet A,599.27,2,Paid,1198.54,0.0,No complaint,,1198.54,False
+101158,2023-12-04,C0040,Accessories,USB-C Cable,13.0,3,Paid,39.0,0.0,Other,1.0,39.0,False
+100711,2023-12-06,C0010, Accessories,Wireless Mouse,29.11,1,Paid,29.11,0.0,No complaint,,29.11,False
+100848,2023-12-09,C0007, Accessories,Accessory Bundle,83.0,2,Paid,166.0,0.0,No complaint,,166.0,False
+100263,2023-11-25,C0001,Electronics ,Smartphone Z,740.02,1,Paid,740.02,0.0,No complaint,,740.02,False
+100305,2023-11-26,C0160, Accessories,Charger,17.05,3,Paid,51.150000000000006,0.0,"Product Defect, Shipping Issue",2.0,51.150000000000006,False
+100283,2023-11-25,C0003,Electronics,NoiseCancel Headphones,343.43,1,Paid,343.43,0.0,No complaint,,343.43,False
+100997,2023-12-12,C0001, Electronics ,Smartphone Z,706.88,1,Paid,706.88,0.0,No complaint,,706.88,False
+101119,2023-12-14,C0064,Smart Home,NordLock Pro,188.97,2,Paid,377.94,0.0,No complaint,,377.94,False
+100465,2023-11-30,C0081,Accessories,Accessory Bundle,62.27,1,Paid,62.27,0.0,No complaint,,62.27,False
+100340,2023-11-27,C0059,Accessories,Accessory Bundle,26.09,2,Paid,52.18,0.0,No complaint,,52.18,False
+100513,2023-12-01,C0001,Smart Home,NordPlug,18.39,1,Paid,18.39,0.0,No complaint,,18.39,False
+100808,2023-12-08,C0028, Smart Home ,NordLock Pro,193.67,1,Paid,193.67,0.0,No complaint,,193.67,False
+100646,2023-12-04,C0102, Accessories,USB-C Cable,18.98,1,Paid,18.98,0.0,No complaint,,18.98,False
+100540,2023-12-02,C0035,Electronics,TV Pro,978.66,1,Paid,978.66,0.0,No complaint,,978.66,False
+100074,2023-11-18,C0129,Smart Home,NordLock Pro,227.1,1,Paid,227.1,0.0,Product Defect,1.0,227.1,False
+100044,2023-11-16,C0003,Electronics,NoiseCancel Headphones,207.57,1,Paid,207.57,0.0,No complaint,,207.57,False
+101198,2023-12-13,C0013,Accessories,Wireless Mouse,26.47,2,Paid,52.94,0.0,No complaint,,52.94,False
+100776,2023-12-07,C0093,Accessories,Screen Protector,10.13,3,Paid,30.39,0.0,No complaint,,30.39,False
+100801,2023-12-08,C0318,Accessories,Phone Case,30.35,4,Paid,121.4,0.0,No complaint,,121.4,False
+100627,2023-12-04,C0022, Accessories,Screen Protector,8.38,1,Paid,8.38,0.0,Product Defect,1.0,8.38,False
+100795,2023-12-07,C0002, Accessories,USB-C Cable,9.83,1,Paid,9.83,0.0,No complaint,,9.83,False
+100569,2023-12-03,C0001,Accessories,Charger,28.0,1,Paid,28.0,0.0,No complaint,,28.0,False
+100254,2023-11-24,C0084,Electronics,Smartphone Z,906.32,1,Paid,906.32,0.0,No complaint,,906.32,False
+101003,2023-12-12,C0003,Smart Home,NordLock Pro,217.71,2,Paid,435.42,0.0,No complaint,,435.42,False
+100097,2023-11-19,C0001,Smart Home,NordLock Pro,205.02,1,Paid,205.02,0.0,No complaint,,205.02,False
+100279,2023-11-25,C0002, Electronics ,Tablet A,791.92,1,Paid,791.92,0.0,No complaint,,791.92,False
+100710,2023-12-06,C0181, Electronics ,Laptop X,1439.35,1,Paid,1439.35,0.0,No complaint,,1439.35,False
+100296,2023-11-26,C0028,Electronics ,TV Pro,1020.82,1,Paid,1020.82,0.0,No complaint,,1020.82,False
+100723,2023-12-06,C0020,Accessories,Laptop Sleeve,15.59,2,Paid,31.18,0.0,No complaint,,31.18,False
+100346,2023-11-27,C0001,Smart Home,NordLock Pro,210.9,1,Paid,210.9,0.0,No complaint,,210.9,False
+100655,2023-12-05,C0023,Accessories,Accessory Bundle,59.55,1,Paid,59.55,0.0,Product Defect,1.0,59.55,False
+100099,2023-11-19,C0001,Electronics,TV Pro,926.93,1,Paid,926.93,0.0,No complaint,,926.93,False
+100470,2023-11-30,C0200,Smart Home,NordLock Pro,189.66,1,Paid,189.66,0.0,"Product Defect, Shipping Issue",3.0,189.66,False
+100504,2023-12-01,C0037,Accessories,Charger,42.66,1,Paid,42.66,0.0,Shipping Issue,1.0,42.66,False
+100075,2023-11-18,C0022,Accessories,Wireless Mouse,44.32,2,Paid,88.64,0.0,No complaint,,88.64,False
+100266,2023-11-25,C0007,Smart Home,NordCam Mini,94.6,1,Paid,94.6,0.0,No complaint,,94.6,False
+101004,2023-12-12,C0030,Accessories,Charger,19.8,3,Paid,59.400000000000006,0.0,No complaint,,59.400000000000006,False
+100131,2023-11-20,C0004, Accessories ,Screen Protector,12.93,1,Paid,12.93,0.0,No complaint,,12.93,False
+100509,2023-12-01,C0015,Accessories,USB-C Cable,16.14,1,Paid,16.14,0.0,Shipping Issue,1.0,16.14,False
+100064,2023-11-17,C0012, Accessories ,Phone Case,12.0,1,Paid,12.0,0.0,No complaint,,12.0,False
+100012,2023-11-15,C0005,Electronics,Laptop X,1546.0,2,Paid,3092.0,0.0,No complaint,,3092.0,False
+101192,2023-11-25,C0003,Electronics,Smartphone Z,1056.7,1,Paid,1056.7,0.0,No complaint,,1056.7,False
+100356,2023-11-28,C0037,Electronics,Tablet A,556.99,1,Paid,556.99,0.0,No complaint,,556.99,False
+100028,2023-11-16,C0253, Accessories ,Laptop Sleeve,29.42,1,Paid,29.42,0.0,Other,1.0,29.42,False
+100923,2023-12-10,C0022,Electronics,Smartphone Z,711.15,1,Paid,711.15,0.0,No complaint,,711.15,False
+100766,2023-12-07,C0034, Electronics ,Tablet A,715.0,1,Paid,715.0,0.0,No complaint,,715.0,False
+100784,2023-12-07,C0019,Accessories,USB-C Cable,19.73,1,Paid,19.73,0.0,Product Defect,3.0,19.73,False
+100025,2023-11-16,C0001,Electronics,TV Pro,929.16,1,Paid,929.16,0.0,No complaint,,929.16,False
+100959,2023-12-11,C0028, Electronics ,TV Pro,1060.75,1,Paid,1060.75,0.0,Other,1.0,1060.75,False
+100331,2023-11-27,C0058,Electronics ,TV Pro,1145.46,1,Paid,1145.46,0.0,No complaint,,1145.46,False
+101196,2023-11-29,C0003, Accessories,Laptop Sleeve,36.68,2,Paid,73.36,0.0,No complaint,,73.36,False
+100403,2023-11-29,C0025,Smart Home,NordLock Pro,190.38,1,Paid,190.38,0.0,No complaint,,190.38,False
+100192,2023-11-23,C0003, Accessories ,Wireless Mouse,56.45,1,Paid,56.45,0.0,No complaint,,56.45,False
+100651,2023-12-05,C0002,Electronics ,Smartphone Z,966.41,1,Paid,966.41,0.0,No complaint,,966.41,False
+100129,2023-11-20,C0051,Smart Home,NordLock Pro,247.01,1,Paid,247.01,0.0,No complaint,,247.01,False
+100678,2023-12-05,C0033, Smart Home ,NordLock Pro,229.79,1,Paid,229.79,0.0,No complaint,,229.79,False
+101133,2023-12-14,C0042,Electronics,TV Pro,1610.06,1,Paid,1610.06,0.0,No complaint,,1610.06,False
+100169,2023-11-22,C0006,Electronics,NoiseCancel Headphones,333.41,1,Paid,333.41,0.0,No complaint,,333.41,False
+100287,2023-11-25,C0072, Accessories,Charger,17.47,1,Paid,17.47,0.0,No complaint,,17.47,False
+100383,2023-11-28,C0237,Smart Home,NordLock Pro,208.61,2,Paid,417.22,0.0,Other,1.0,417.22,False
+100940,2023-12-11,C0002,Electronics,TV Pro,1465.79,1,Paid,1465.79,0.0,No complaint,,1465.79,False
+100924,2023-12-10,C0087, Accessories,Accessory Bundle,77.62,2,Paid,155.24,0.0,No complaint,,155.24,False
+101102,2023-12-14,C0002,Electronics,NoiseCancel Headphones,227.69,1,Paid,227.69,0.0,No complaint,,227.69,False
+100857,2023-12-09,C0001, Electronics ,NoiseCancel Headphones,150.3,1,Paid,150.3,0.0,No complaint,,150.3,False
+101086,2023-12-14,C0007, Smart Home ,NordLock Pro,220.54,1,Paid,220.54,0.0,No complaint,,220.54,False
+100536,2023-12-02,C0001,Accessories,USB-C Cable,14.0,1,Paid,14.0,0.0,No complaint,,14.0,False
+100015,2023-11-15,C0013,Accessories,Laptop Sleeve,28.15,1,Paid,28.15,0.0,No complaint,,28.15,False
+100420,2023-11-29,C0001,Accessories,Phone Case,18.25,4,Paid,73.0,0.0,No complaint,,73.0,False
+100189,2023-11-22,C0001,Electronics,Laptop X,1507.54,2,Paid,3015.08,0.0,No complaint,,3015.08,False
+101107,2023-12-14,C0003,Electronics,NoiseCancel Headphones,183.96,1,Paid,183.96,0.0,No complaint,,183.96,False
+101024,2023-12-12,C0003,Smart Home,NordLock Pro,226.2,1,Paid,226.2,0.0,No complaint,,226.2,False
+100437,2023-11-30,C0008,Electronics,Tablet A,355.2,1,Paid,355.2,0.0,No complaint,,355.2,False
+101025,2023-12-12,C0120,Accessories,Charger,29.0,1,Paid,29.0,0.0,No complaint,,29.0,False
+100769,2023-12-07,C0050,Electronics,NoiseCancel Headphones,282.69,1,Paid,282.69,0.0,No complaint,,282.69,False
+100375,2023-11-28,C0009, Accessories,Phone Case,35.08,3,Paid,105.24,0.0,No complaint,,105.24,False
+100373,2023-11-28,C0024,Accessories,USB-C Cable,17.66,1,Paid,17.66,0.0,No complaint,,17.66,False
+100591,2023-12-03,C0017, Smart Home ,NordLock Pro,239.52,1,Paid,239.52,239.52,No complaint,,0.0,True
+100675,2023-12-05,C0002,Accessories,Charger,46.6,1,Paid,46.6,0.0,No complaint,,46.6,False
+100417,2023-11-29,C0078,Accessories,Screen Protector,6.53,1,Paid,6.53,0.0,Other,1.0,6.53,False
+100195,2023-11-23,C0037,Smart Home,NordLock Pro,181.85,1,Paid,181.85,0.0,No complaint,,181.85,False
+100450,2023-11-30,C0002, Accessories,Screen Protector,11.57,2,Paid,23.14,0.0,No complaint,,23.14,False
+100810,2023-12-08,C0002,Smart Home,NordLock Pro,180.92,1,Paid,180.92,0.0,No complaint,,180.92,False
+100775,2023-12-07,C0001, Accessories,USB-C Cable,13.71,1,Paid,13.71,0.0,No complaint,,13.71,False
+100962,2023-12-11,C0006, Smart Home ,NordLock Pro,190.08,1,Paid,190.08,0.0,No complaint,,190.08,False
+100962,2023-12-11,C0006, Smart Home ,NordLock Pro,190.08,1,Paid,190.08,0.0,No complaint,,190.08,False
+101039,2023-12-12,C0001,Smart Home,NordLock Pro,219.18,1,Paid,219.18,0.0,No complaint,,219.18,False
+100408,2023-11-29,C0005,Accessories,Laptop Sleeve,44.52,3,Paid,133.56,0.0,No complaint,,133.56,False
+100615,2023-12-04,C0011,Electronics ,NoiseCancel Headphones,262.06,1,Paid,262.06,0.0,No complaint,,262.06,False
+100963,2023-12-11,C0024,Smart Home,NordLock Pro,206.0,1,Paid,206.0,206.0,No complaint,,0.0,True
+100749,2023-12-07,C0256, Accessories ,Phone Case,14.51,4,Paid,58.04,0.0,No complaint,,58.04,False
+100863,2023-12-09,C0011,Smart Home,NordLock Pro,192.18,1,Paid,192.18,0.0,No complaint,,192.18,False
+100193,2023-11-23,C0010,Electronics,Tablet A,752.45,1,Paid,752.45,0.0,No complaint,,752.45,False
+100150,2023-11-21,C0002, Electronics ,NoiseCancel Headphones,227.04,1,Paid,227.04,0.0,No complaint,,227.04,False
+100688,2023-12-05,C0006,Electronics,Tablet A,644.02,1,Paid,644.02,0.0,No complaint,,644.02,False
+100791,2023-12-07,C0002,Electronics ,Tablet A,636.8,1,Paid,636.8,0.0,No complaint,,636.8,False
+100740,2023-12-07,C0047,Electronics,Smartphone Z,712.48,1,Paid,712.48,0.0,No complaint,,712.48,False
+100300,2023-11-26,C0009, Accessories ,Phone Case,18.67,3,Paid,56.010000000000005,0.0,No complaint,,56.010000000000005,False
+100708,2023-12-06,C0003,Electronics ,Tablet A,612.79,1,Paid,612.79,0.0,No complaint,,612.79,False
+100950,2023-12-11,C0258,Electronics,NoiseCancel Headphones,200.27,1,Paid,200.27,0.0,No complaint,,200.27,False
+100241,2023-11-24,C0065,Smart Home,NordPlug,32.73,1,Paid,32.73,0.0,No complaint,,32.73,False
+100200,2023-11-23,C0063,Electronics,Tablet A,714.86,1,Paid,714.86,0.0,No complaint,,714.86,False
+100046,2023-11-17,C0009,Electronics,TV Pro,1312.23,1,Paid,1312.23,0.0,No complaint,,1312.23,False
+100713,2023-12-06,C0030, Smart Home ,NordLock Pro,239.0,1,Paid,239.0,239.0,No complaint,,0.0,True
+100588,2023-12-03,C0016, Accessories ,Wireless Mouse,40.0,1,Paid,40.0,0.0,No complaint,,40.0,False
+100138,2023-11-20,C0001, Accessories,Wireless Mouse,59.52,1,Paid,59.52,0.0,No complaint,,59.52,False
+100534,2023-12-02,C0018,Accessories,Screen Protector,14.1,1,Paid,14.1,0.0,Product Defect,1.0,14.1,False
+100661,2023-12-05,C0029,Smart Home,NordLock Pro,247.0,2,Paid,494.0,0.0,No complaint,,494.0,False
+100781,2023-12-07,C0003,Accessories,Charger,36.62,2,Paid,73.24,0.0,No complaint,,73.24,False
+100665,2023-12-05,C0004,Accessories,Screen Protector,5.76,1,Paid,5.76,0.0,No complaint,,5.76,False
+101120,2023-12-14,C0001,Smart Home,NordLock Pro,226.0,1,Paid,226.0,0.0,No complaint,,226.0,False
+100382,2023-11-28,C0147, Accessories,Charger,39.53,2,Paid,79.06,0.0,No complaint,,79.06,False
+100642,2023-12-04,C0022, Accessories,Phone Case,19.39,3,Paid,58.17,0.0,No complaint,,58.17,False
+101182,2023-11-30,C0303,Accessories,Wireless Mouse,23.0,1,Paid,23.0,0.0,No complaint,,23.0,False
+100449,2023-11-30,C0003,Smart Home,NordLock Pro,239.22,1,Paid,239.22,0.0,No complaint,,239.22,False
+100511,2023-12-01,C0001,Accessories,Laptop Sleeve,42.01,2,Paid,84.02,0.0,No complaint,,84.02,False
+100424,2023-11-29,C0006,Accessories,USB-C Cable,8.8,1,Paid,8.8,0.0,No complaint,,8.8,False
+100007,2023-11-15,C0003,Accessories,Phone Case,28.53,1,Paid,28.53,0.0,No complaint,,28.53,False
+100098,2023-11-19,C0019,Electronics,TV Pro,1266.38,1,Paid,1266.38,0.0,No complaint,,1266.38,False
+100159,2023-11-21,C0012,Electronics,Tablet A,394.06,1,Paid,394.06,0.0,No complaint,,394.06,False
+100919,2023-12-10,C0001,Electronics ,TV Pro,970.6,1,Paid,970.6,0.0,No complaint,,970.6,False
+100653,2023-12-05,C0020,Accessories,Screen Protector,9.37,2,Paid,18.74,0.0,No complaint,,18.74,False
+100033,2023-11-16,C0007,Electronics,Tablet A,615.0,1,Paid,615.0,0.0,No complaint,,615.0,False
+100799,2023-12-08,C0011,Smart Home,NordPlug,24.63,1,Paid,24.63,0.0,No complaint,,24.63,False
+100760,2023-12-07,C0002,Electronics ,Tablet A,520.14,1,Paid,520.14,0.0,No complaint,,520.14,False
+100522,2023-12-02,C0003,Accessories,Charger,39.36,1,Paid,39.36,0.0,No complaint,,39.36,False
+100335,2023-11-27,C0040,Electronics,Smartphone Z,1004.81,1,Paid,1004.81,0.0,No complaint,,1004.81,False
+100491,2023-12-01,C0001,Accessories,Accessory Bundle,45.49,2,Paid,90.98,0.0,No complaint,,90.98,False
+100259,2023-11-24,C0013,Electronics,Smartphone Z,718.54,1,Paid,718.54,0.0,No complaint,,718.54,False
+100172,2023-11-22,C0007, Accessories,Laptop Sleeve,39.84,1,Paid,39.84,0.0,No complaint,,39.84,False
+100548,2023-12-02,C0001, Electronics ,TV Pro,1184.65,1,Paid,1184.65,0.0,No complaint,,1184.65,False
+100237,2023-11-24,C0301, Accessories ,Laptop Sleeve,38.99,1,Paid,38.99,0.0,No complaint,,38.99,False
+100385,2023-11-28,C0015,Accessories,Laptop Sleeve,24.0,3,Paid,72.0,0.0,No complaint,,72.0,False
+100659,2023-12-05,C0008,Accessories,Charger,40.01,1,Paid,40.01,0.0,No complaint,,40.01,False
+100024,2023-11-16,C0002, Accessories,Charger,25.01,1,Paid,25.01,0.0,No complaint,,25.01,False
+100809,2023-12-08,C0158, Electronics ,Laptop X,1730.99,1,Paid,1730.99,0.0,No complaint,,1730.99,False
+100885,2023-12-09,C0010, Electronics ,TV Pro,947.14,1,Paid,947.14,0.0,No complaint,,947.14,False
+100546,2023-12-02,C0079,Accessories,USB-C Cable,9.98,1,Paid,9.98,0.0,No complaint,,9.98,False
+100641,2023-12-04,C0015,Accessories,Laptop Sleeve,33.86,3,Paid,101.58,0.0,No complaint,,101.58,False
+100478,2023-11-30,C0003,Electronics,TV Pro,1393.62,1,Paid,1393.62,0.0,No complaint,,1393.62,False
+101178,2023-12-13,C0001, Accessories ,Charger,46.12,2,Paid,92.24,0.0,No complaint,,92.24,False
+100680,2023-12-05,C0001,Electronics,Laptop X,1719.0,1,Paid,1719.0,0.0,No complaint,,1719.0,False
+100830,2023-12-08,C0016, Accessories ,Laptop Sleeve,39.0,1,Paid,39.0,0.0,Other,1.0,39.0,False
+100154,2023-11-21,C0014,Accessories,Accessory Bundle,46.0,1,Paid,46.0,0.0,No complaint,,46.0,False
+100123,2023-11-20,C0314, Accessories,Laptop Sleeve,33.17,1,Paid,33.17,0.0,No complaint,,33.17,False
+100698,2023-12-06,C0001,Electronics,TV Pro,1205.0,1,Paid,1205.0,0.0,No complaint,,1205.0,False
+100121,2023-11-19,C0113,Smart Home,NordPlug,23.36,2,Paid,46.72,0.0,No complaint,,46.72,False
+100904,2023-12-10,C0149,Electronics ,TV Pro,1184.42,1,Paid,1184.42,0.0,No complaint,,1184.42,False
+100464,2023-11-30,C0001,Accessories,Laptop Sleeve,20.0,2,Paid,40.0,0.0,No complaint,,40.0,False
+101121,2023-12-14,C0067,Electronics,TV Pro,928.65,1,Paid,928.65,0.0,No complaint,,928.65,False
+100628,2023-12-04,C0187, Accessories ,Wireless Mouse,19.96,1,Paid,19.96,0.0,Product Defect,1.0,19.96,False
+101075,2023-12-13,C0002,Smart Home,NordCam Mini,62.13,1,Paid,62.13,0.0,No complaint,,62.13,False
+100985,2023-12-11,C0086,Electronics,Tablet A,783.57,1,Paid,783.57,0.0,No complaint,,783.57,False
+100520,2023-12-02,C0021,Accessories,USB-C Cable,10.0,1,Paid,10.0,0.0,No complaint,,10.0,False
+100951,2023-12-11,C0054, Accessories,Accessory Bundle,96.87,2,Paid,193.74,0.0,No complaint,,193.74,False
+100966,2023-12-11,C0035, Accessories,Phone Case,16.3,1,Paid,16.3,0.0,No complaint,,16.3,False
+101177,2023-11-28,C0037,Electronics,Tablet A,556.99,1,Paid,556.99,0.0,No complaint,,556.99,False
+100587,2023-12-03,C0001,Accessories,Screen Protector,10.14,2,Paid,20.28,0.0,No complaint,,20.28,False
+101046,2023-12-13,C0273, Accessories ,Charger,34.08,1,Paid,34.08,0.0,No complaint,,34.08,False
+100523,2023-12-02,C0025, Electronics ,Smartphone Z,940.92,1,Paid,940.92,0.0,Other,2.0,940.92,False
+100358,2023-11-28,C0001, Accessories,Wireless Mouse,56.52,1,Paid,56.52,0.0,No complaint,,56.52,False
+100949,2023-12-11,C0046, Smart Home ,NordLock Pro,204.69,1,Paid,204.69,0.0,No complaint,,204.69,False
+101041,2023-12-13,C0002, Smart Home ,NordLock Pro,219.45,1,Paid,219.45,0.0,No complaint,,219.45,False
+100151,2023-11-21,C0002,Electronics ,Smartphone Z,752.21,1,Paid,752.21,0.0,No complaint,,752.21,False
+100529,2023-12-02,C0017,Electronics,Tablet A,326.0,1,Paid,326.0,0.0,No complaint,,326.0,False
+100292,2023-11-25,C0082,Electronics,NoiseCancel Headphones,258.19,2,Paid,516.38,0.0,No complaint,,516.38,False
+100650,2023-12-05,C0054,Smart Home,NordLock Pro,213.11,1,Paid,213.11,213.11,No complaint,,0.0,True
+100867,2023-12-09,C0029, Smart Home ,NordLock Pro,209.05,1,Paid,209.05,0.0,No complaint,,209.05,False
+100175,2023-11-22,C0002, Accessories ,Laptop Sleeve,27.74,1,Paid,27.74,0.0,No complaint,,27.74,False
+100743,2023-12-07,C0097,Accessories,Laptop Sleeve,20.81,1,Paid,20.81,0.0,Shipping Issue,1.0,20.81,False
+100258,2023-11-24,C0099,Smart Home,NordLock Pro,214.74,1,Paid,214.74,0.0,Shipping Issue,2.0,214.74,False
+100692,2023-12-06,C0206, Electronics ,Laptop X,1379.55,1,Paid,1379.55,0.0,No complaint,,1379.55,False
+100862,2023-12-09,C0003,Accessories,USB-C Cable,17.87,1,Paid,17.87,0.0,No complaint,,17.87,False
+100022,2023-11-16,C0003,Electronics ,NoiseCancel Headphones,176.57,1,Paid,176.57,0.0,No complaint,,176.57,False
+101013,2023-12-12,C0001, Accessories ,USB-C Cable,13.0,3,Paid,39.0,0.0,No complaint,,39.0,False
+100482,2023-11-30,C0007,Electronics,NoiseCancel Headphones,176.13,1,Paid,176.13,0.0,No complaint,,176.13,False
+100475,2023-11-30,C0222,Electronics,NoiseCancel Headphones,254.73,1,Paid,254.73,0.0,No complaint,,254.73,False
+100804,2023-12-08,C0006, Accessories ,Laptop Sleeve,29.83,3,Paid,89.49,0.0,No complaint,,89.49,False
+100119,2023-11-19,C0001,Accessories,Accessory Bundle,27.0,2,Paid,54.0,0.0,No complaint,,54.0,False
+100179,2023-11-22,C0004,Electronics,Laptop X,1755.32,2,Paid,3510.64,0.0,No complaint,,3510.64,False
+101159,2023-12-12,C0003,Electronics,NoiseCancel Headphones,308.13,1,Paid,308.13,0.0,No complaint,,308.13,False
+100338,2023-11-27,C0003,Electronics,NoiseCancel Headphones,321.06,1,Paid,321.06,0.0,No complaint,,321.06,False
+101019,2023-12-12,C0002, Accessories,Accessory Bundle,75.0,2,Paid,150.0,0.0,No complaint,,150.0,False
+100298,2023-11-26,C0006,Electronics ,NoiseCancel Headphones,236.41,1,Paid,236.41,0.0,No complaint,,236.41,False
+101200,2023-12-11,C0024,Smart Home,NordLock Pro,206.0,1,Paid,206.0,0.0,Product Defect,2.0,206.0,False
+101118,2023-12-14,C0001,Accessories,Accessory Bundle,78.76,2,Paid,157.52,0.0,No complaint,,157.52,False
+100110,2023-11-19,C0001,Electronics,Smartphone Z,1007.22,1,Paid,1007.22,0.0,No complaint,,1007.22,False
+100414,2023-11-29,C0001,Accessories,Screen Protector,8.16,3,Paid,24.48,0.0,No complaint,,24.48,False
+101111,2023-12-14,C0002, Smart Home ,NordLock Pro,227.0,1,Paid,227.0,0.0,No complaint,,227.0,False
+100543,2023-12-02,C0270,Smart Home,NordLock Pro,190.15,1,Paid,190.15,0.0,No complaint,,190.15,False
+100888,2023-12-09,C0001,Electronics ,Smartphone Z,897.04,1,Paid,897.04,0.0,No complaint,,897.04,False
+100306,2023-11-26,C0012,Smart Home,NordCam Mini,75.0,2,Paid,150.0,0.0,Product Defect,1.0,150.0,False
+100968,2023-12-11,C0106,Electronics,Laptop X,1406.83,1,Paid,1406.83,0.0,Product Defect,2.0,1406.83,False
+100921,2023-12-10,C0002,Smart Home,NordPlug,16.05,1,Paid,16.05,0.0,No complaint,,16.05,False
+100021,2023-11-15,C0006,Smart Home,NordTherm,138.07,1,Paid,138.07,0.0,No complaint,,138.07,False
+100981,2023-12-11,C0014,Electronics,Tablet A,543.89,1,Paid,543.89,0.0,No complaint,,543.89,False
+100671,2023-12-05,C0010,Smart Home,NordLock Pro,228.29,1,Paid,228.29,0.0,No complaint,,228.29,False
+101130,2023-12-14,C0002, Accessories,Laptop Sleeve,19.0,1,Paid,19.0,0.0,No complaint,,19.0,False
+100102,2023-11-19,C0010, Accessories ,Laptop Sleeve,24.31,1,Paid,24.31,0.0,No complaint,,24.31,False
+100140,2023-11-21,C0199,Smart Home,NordLock Pro,222.11,1,Paid,222.11,222.11,"Product Defect, Other, Shipping Issue",3.0,0.0,True
+100224,2023-11-24,C0001,Electronics,TV Pro,1442.67,1,Paid,1442.67,0.0,No complaint,,1442.67,False
+100922,2023-12-10,C0053,Accessories,Charger,35.94,3,Paid,107.82,0.0,No complaint,,107.82,False
+100553,2023-12-02,C0019, Smart Home ,NordLock Pro,188.09,1,Paid,188.09,0.0,No complaint,,188.09,False
+100394,2023-11-28,C0016,Electronics,TV Pro,1256.68,1,Paid,1256.68,0.0,No complaint,,1256.68,False
+100461,2023-11-30,C0076, Electronics ,Smartphone Z,989.24,2,Paid,1978.48,0.0,No complaint,,1978.48,False
+100856,2023-12-09,C0001,Accessories,Accessory Bundle,40.96,1,Paid,40.96,0.0,No complaint,,40.96,False
+100206,2023-11-23,C0002, Electronics ,Laptop X,1577.0,1,Paid,1577.0,0.0,No complaint,,1577.0,False
+100912,2023-12-10,C0001,Electronics,Tablet A,342.14,1,Paid,342.14,0.0,No complaint,,342.14,False
+100589,2023-12-03,C0320,Accessories,USB-C Cable,12.34,1,Paid,12.34,0.0,No complaint,,12.34,False
+100038,2023-11-16,C0002, Accessories,Phone Case,12.88,2,Paid,25.76,0.0,No complaint,,25.76,False
+100361,2023-11-28,C0004, Smart Home ,NordLock Pro,246.71,1,Paid,246.71,0.0,No complaint,,246.71,False
+101069,2023-12-13,C0004,Accessories,Accessory Bundle,82.41,1,Paid,82.41,0.0,No complaint,,82.41,False
+100574,2023-12-03,C0071,Electronics ,Smartphone Z,819.94,1,Paid,819.94,0.0,Product Defect,1.0,819.94,False
+101089,2023-12-14,C0107, Electronics ,TV Pro,1209.6,1,Paid,1209.6,0.0,No complaint,,1209.6,False
+100596,2023-12-04,C0158, Accessories,Charger,19.56,1,Paid,19.56,0.0,Other,1.0,19.56,False
+100125,2023-11-20,C0001, Accessories ,Accessory Bundle,52.5,2,Paid,105.0,0.0,No complaint,,105.0,False
+100624,2023-12-04,C0001,Smart Home,NordCam Mini,91.0,1,Paid,91.0,0.0,No complaint,,91.0,False
+100396,2023-11-29,C0296,Accessories,Accessory Bundle,52.01,2,Paid,104.02,0.0,No complaint,,104.02,False
+100897,2023-12-10,C0110,Smart Home,NordLock Pro,245.24,1,Paid,245.24,0.0,No complaint,,245.24,False
+100185,2023-11-22,C0001, Smart Home ,NordTherm,127.55,1,Paid,127.55,0.0,No complaint,,127.55,False
+100056,2023-11-17,C0014,Accessories,Charger,15.88,3,Paid,47.64,0.0,No complaint,,47.64,False
+100882,2023-12-09,C0003,Electronics,TV Pro,1195.36,1,Paid,1195.36,0.0,No complaint,,1195.36,False
+101027,2023-12-12,C0001,Smart Home,NordLock Pro,244.0,1,Paid,244.0,0.0,No complaint,,244.0,False
+101112,2023-12-14,C0001, Accessories,Laptop Sleeve,23.93,1,Paid,23.93,0.0,No complaint,,23.93,False
+100166,2023-11-22,C0203, Accessories,USB-C Cable,16.3,3,Paid,48.900000000000006,0.0,No complaint,,48.900000000000006,False
+101014,2023-12-12,C0291,Smart Home,NordLock Pro,200.0,2,Paid,400.0,0.0,No complaint,,400.0,False
+100116,2023-11-19,C0009,Electronics ,Smartphone Z,1065.43,1,Paid,1065.43,0.0,No complaint,,1065.43,False
+100311,2023-11-26,C0191,Electronics,NoiseCancel Headphones,318.0,1,Paid,318.0,0.0,Shipping Issue,1.0,318.0,False
+100909,2023-12-10,C0080, Electronics ,TV Pro,1355.85,1,Paid,1355.85,0.0,No complaint,,1355.85,False
+100476,2023-11-30,C0016,Smart Home,NordLock Pro,223.28,1,Paid,223.28,0.0,No complaint,,223.28,False
+100421,2023-11-29,C0003, Accessories,Screen Protector,14.39,1,Paid,14.39,0.0,No complaint,,14.39,False
+100199,2023-11-23,C0003,Electronics ,NoiseCancel Headphones,234.0,1,Paid,234.0,0.0,No complaint,,234.0,False
+100555,2023-12-02,C0038,Electronics ,NoiseCancel Headphones,246.91,1,Paid,246.91,0.0,No complaint,,246.91,False
+101174,2023-11-29,C0008,Accessories,Screen Protector,8.41,3,Paid,25.23,25.23,No complaint,,0.0,True
+100219,2023-11-23,C0249,Electronics,Smartphone Z,903.0,1,Paid,903.0,0.0,"Refund Request, Shipping Issue",2.0,903.0,False
+100212,2023-11-23,C0014, Accessories,Screen Protector,6.11,2,Paid,12.22,0.0,No complaint,,12.22,False
+100635,2023-12-04,C0003, Electronics ,Laptop X,1648.66,1,Paid,1648.66,0.0,No complaint,,1648.66,False
+100840,2023-12-08,C0004, Accessories ,Wireless Mouse,18.18,1,Paid,18.18,0.0,No complaint,,18.18,False
+100727,2023-12-06,C0050,Electronics,Laptop X,1588.34,1,Paid,1588.34,1588.34,No complaint,,0.0,True
+100815,2023-12-08,C0282,Smart Home,NordLock Pro,210.2,1,Paid,210.2,210.2,"Product Defect, Other",5.0,0.0,True
+100649,2023-12-05,C0300, Accessories ,Phone Case,16.63,1,Paid,16.63,0.0,No complaint,,16.63,False
+100908,2023-12-10,C0021, Accessories,Phone Case,17.63,1,Paid,17.63,0.0,No complaint,,17.63,False
+100571,2023-12-03,C0023,Electronics,Tablet A,370.25,2,Paid,740.5,0.0,Shipping Issue,1.0,740.5,False
+100927,2023-12-10,C0062, Accessories ,Wireless Mouse,32.09,1,Paid,32.09,0.0,Other,1.0,32.09,False
+100330,2023-11-27,C0006,Smart Home,NordLock Pro,180.97,1,Paid,180.97,0.0,No complaint,,180.97,False
+100493,2023-12-01,C0260,Accessories,Charger,36.46,2,Paid,72.92,0.0,No complaint,,72.92,False
+100691,2023-12-06,C0003,Electronics ,Smartphone Z,901.62,1,Paid,901.62,0.0,No complaint,,901.62,False
+100751,2023-12-07,C0001,Accessories,Phone Case,13.03,1,Paid,13.03,0.0,No complaint,,13.03,False
+100832,2023-12-08,C0051,Accessories,Accessory Bundle,40.78,1,Paid,40.78,0.0,No complaint,,40.78,False
+100255,2023-11-24,C0034,Electronics ,NoiseCancel Headphones,264.94,1,Paid,264.94,0.0,No complaint,,264.94,False
+100829,2023-12-08,C0013,Smart Home,NordLock Pro,209.14,1,Paid,209.14,0.0,Shipping Issue,1.0,209.14,False
+100566,2023-12-03,C0064,Electronics,Laptop X,1695.77,1,Paid,1695.77,0.0,Product Defect,1.0,1695.77,False
+100393,2023-11-28,C0238,Electronics ,TV Pro,1338.77,1,Paid,1338.77,0.0,Shipping Issue,1.0,1338.77,False
+100836,2023-12-08,C0181,Smart Home,NordCam Mini,53.95,1,Paid,53.95,0.0,No complaint,,53.95,False
+101051,2023-12-13,C0002,Electronics,Laptop X,1696.76,1,Paid,1696.76,0.0,No complaint,,1696.76,False
+100231,2023-11-24,C0001, Electronics ,NoiseCancel Headphones,182.17,2,Paid,364.34,0.0,No complaint,,364.34,False
+100147,2023-11-21,C0006,Electronics,TV Pro,1399.86,1,Paid,1399.86,0.0,No complaint,,1399.86,False
+101153,2023-11-30,C0004,Electronics,NoiseCancel Headphones,316.19,1,Paid,316.19,0.0,No complaint,,316.19,False
+100168,2023-11-22,C0021, Accessories,USB-C Cable,7.78,1,Paid,7.78,0.0,No complaint,,7.78,False
+101185,2023-11-25,C0033, Electronics ,Smartphone Z,948.32,1,Paid,948.32,0.0,Other,2.0,948.32,False
+100902,2023-12-10,C0004,Electronics,Smartphone Z,1084.69,1,Paid,1084.69,0.0,No complaint,,1084.69,False
+100599,2023-12-04,C0001,Electronics,NoiseCancel Headphones,308.58,1,Paid,308.58,308.58,No complaint,,0.0,True
+101055,2023-12-13,C0002,Smart Home,NordLock Pro,246.13,1,Paid,246.13,0.0,No complaint,,246.13,False
+101011,2023-12-12,C0002,Electronics ,TV Pro,1098.61,1,Paid,1098.61,0.0,No complaint,,1098.61,False
+100557,2023-12-03,C0003,Electronics,NoiseCancel Headphones,186.46,1,Paid,186.46,186.46,No complaint,,0.0,True
+100687,2023-12-05,C0006, Accessories ,Laptop Sleeve,33.29,2,Paid,66.58,0.0,No complaint,,66.58,False
+100400,2023-11-29,C0003, Accessories,Laptop Sleeve,36.68,2,Paid,73.36,0.0,No complaint,,73.36,False
+100664,2023-12-05,C0012, Accessories ,Charger,47.42,1,Paid,47.42,0.0,No complaint,,47.42,False
+100817,2023-12-08,C0002,Accessories,Phone Case,16.73,2,Paid,33.46,0.0,No complaint,,33.46,False
+100652,2023-12-05,C0011,Electronics,Tablet A,314.93,1,Paid,314.93,0.0,No complaint,,314.93,False
+100163,2023-11-22,C0004,Accessories,Screen Protector,10.08,2,Paid,20.16,0.0,No complaint,,20.16,False
+100469,2023-11-30,C0001, Electronics ,NoiseCancel Headphones,260.09,1,Paid,260.09,0.0,No complaint,,260.09,False
+100762,2023-12-07,C0009,Electronics,NoiseCancel Headphones,225.04,1,Paid,225.04,0.0,No complaint,,225.04,False
+100598,2023-12-04,C0070, Accessories,Wireless Mouse,22.02,1,Paid,22.02,0.0,Other,1.0,22.02,False
+101044,2023-12-13,C0001,Smart Home,NordLock Pro,185.8,1,Paid,185.8,0.0,No complaint,,185.8,False
+100348,2023-11-27,C0220, Accessories ,Phone Case,31.01,4,Paid,124.04,0.0,No complaint,,124.04,False
+100572,2023-12-03,C0002,Smart Home,NordLock Pro,192.26,1,Paid,192.26,0.0,No complaint,,192.26,False
+100281,2023-11-25,C0017,Smart Home,NordCam Mini,91.1,1,Paid,91.1,0.0,No complaint,,91.1,False
+100899,2023-12-10,C0001, Accessories,USB-C Cable,8.25,1,Paid,8.25,0.0,No complaint,,8.25,False
+101070,2023-12-13,C0023,Smart Home,NordLock Pro,216.4,1,Paid,216.4,0.0,No complaint,,216.4,False
+100716,2023-12-06,C0036,Accessories,Charger,44.54,4,Paid,178.16,0.0,No complaint,,178.16,False
+100010,2023-11-15,C0001,Accessories,Charger,32.57,3,Paid,97.71000000000001,0.0,No complaint,,97.71000000000001,False
+100764,2023-12-07,C0006, Electronics ,Smartphone Z,998.04,1,Paid,998.04,0.0,No complaint,,998.04,False
+100271,2023-11-25,C0008,Electronics,Laptop X,1718.34,1,Paid,1718.34,0.0,No complaint,,1718.34,False
+100984,2023-12-11,C0124,Electronics,NoiseCancel Headphones,247.73,1,Paid,247.73,0.0,No complaint,,247.73,False
+100495,2023-12-01,C0004,Electronics ,Smartphone Z,795.93,1,Paid,795.93,0.0,No complaint,,795.93,False
+101022,2023-12-12,C0076,Electronics,Tablet A,565.36,1,Paid,565.36,0.0,"Other, Product Defect",2.0,565.36,False
+100286,2023-11-25,C0007,Electronics ,Tablet A,732.66,1,Paid,732.66,0.0,No complaint,,732.66,False
+100977,2023-12-11,C0017,Smart Home,NordLock Pro,183.0,1,Paid,183.0,0.0,"Other, Shipping Issue",3.0,183.0,False
+100445,2023-11-30,C0001,Accessories,Accessory Bundle,34.98,1,Paid,34.98,0.0,No complaint,,34.98,False
+101180,2023-12-04,C0015,Accessories,Laptop Sleeve,33.86,3,Paid,101.58,0.0,No complaint,,101.58,False
+100933,2023-12-11,C0003, Accessories,Laptop Sleeve,41.18,3,Paid,123.53999999999999,0.0,No complaint,,123.53999999999999,False
+101073,2023-12-13,C0015,Smart Home,NordLock Pro,214.13,1,Paid,214.13,0.0,No complaint,,214.13,False
+100100,2023-11-19,C0143, Accessories,Charger,21.14,1,Paid,21.14,0.0,No complaint,,21.14,False
+100847,2023-12-09,C0136, Accessories,Laptop Sleeve,43.74,1,Paid,43.74,0.0,No complaint,,43.74,False
+100496,2023-12-01,C0032,Electronics,NoiseCancel Headphones,282.0,1,Paid,282.0,0.0,No complaint,,282.0,False
+100433,2023-11-29,C0027,Electronics,NoiseCancel Headphones,306.26,1,Paid,306.26,0.0,No complaint,,306.26,False
+100143,2023-11-21,C0002,Accessories,USB-C Cable,7.06,1,Paid,7.06,0.0,No complaint,,7.06,False
+101134,2023-12-14,C0002, Smart Home ,NordLock Pro,200.59,2,Paid,401.18,0.0,No complaint,,401.18,False
+101197,2023-11-24,C0065,Smart Home,NordPlug,32.73,1,Paid,32.73,0.0,Product Defect,2.0,32.73,False
+100167,2023-11-22,C0001,Electronics,Tablet A,499.07,1,Paid,499.07,0.0,No complaint,,499.07,False
+100162,2023-11-22,C0081,Electronics,TV Pro,1615.87,1,Paid,1615.87,0.0,"Other, Shipping Issue",2.0,1615.87,False
+100643,2023-12-04,C0005,Smart Home,NordLock Pro,244.97,1,Paid,244.97,0.0,Refund Request,1.0,244.97,False
+100137,2023-11-20,C0001,Electronics ,NoiseCancel Headphones,260.84,2,Paid,521.68,0.0,No complaint,,521.68,False
+100878,2023-12-09,C0001, Accessories,Laptop Sleeve,36.99,1,Paid,36.99,0.0,No complaint,,36.99,False
+100017,2023-11-15,C0003, Accessories,Charger,26.91,1,Paid,26.91,0.0,No complaint,,26.91,False
+100114,2023-11-19,C0148,Electronics,Tablet A,457.81,1,Paid,457.81,0.0,Product Defect,1.0,457.81,False
+100008,2023-11-15,C0001, Accessories ,Charger,36.45,3,Paid,109.35000000000001,0.0,No complaint,,109.35000000000001,False
+100196,2023-11-23,C0001,Electronics,Smartphone Z,1016.16,1,Paid,1016.16,0.0,No complaint,,1016.16,False
+100866,2023-12-09,C0102,Electronics,NoiseCancel Headphones,233.49,1,Paid,233.49,0.0,Refund Request,1.0,233.49,False
+100174,2023-11-22,C0001,Smart Home,NordLock Pro,215.47,1,Paid,215.47,0.0,No complaint,,215.47,False
+100447,2023-11-30,C0001,Accessories,Accessory Bundle,60.0,1,Paid,60.0,0.0,No complaint,,60.0,False
+100101,2023-11-19,C0001,Accessories,Accessory Bundle,49.17,1,Paid,49.17,0.0,No complaint,,49.17,False
+101092,2023-12-14,C0244,Smart Home,NordTherm,83.17,1,Paid,83.17,0.0,No complaint,,83.17,False
+100580,2023-12-03,C0092,Accessories,Screen Protector,7.07,2,Paid,14.14,0.0,No complaint,,14.14,False
+100474,2023-11-30,C0002,Accessories,Charger,17.37,2,Paid,34.74,0.0,No complaint,,34.74,False
+100205,2023-11-23,C0024,Electronics,Laptop X,1339.22,1,Paid,1339.22,0.0,No complaint,,1339.22,False
+100581,2023-12-03,C0027,Electronics,NoiseCancel Headphones,348.89,2,Paid,697.78,0.0,No complaint,,697.78,False
+100157,2023-11-21,C0027,Electronics,Smartphone Z,787.19,2,Paid,1574.38,0.0,No complaint,,1574.38,False
+100894,2023-12-10,C0002, Smart Home ,NordLock Pro,221.02,1,Paid,221.02,0.0,No complaint,,221.02,False
+101040,2023-12-12,C0015, Smart Home ,NordLock Pro,195.56,1,Paid,195.56,0.0,No complaint,,195.56,False
+100486,2023-12-01,C0007, Smart Home ,NordLock Pro,237.0,2,Paid,474.0,0.0,No complaint,,474.0,False
+100645,2023-12-04,C0076,Smart Home,NordLock Pro,200.03,1,Paid,200.03,200.03,No complaint,,0.0,True
+101140,2023-12-04,C0042,Smart Home,NordLock Pro,223.67,2,Paid,447.34,0.0,No complaint,,447.34,False
+100712,2023-12-06,C0007, Accessories,Phone Case,16.5,3,Paid,49.5,0.0,No complaint,,49.5,False
+100928,2023-12-10,C0002,Smart Home,NordCam Mini,59.35,1,Paid,59.35,0.0,No complaint,,59.35,False
+101006,2023-12-12,C0187,Electronics,Tablet A,661.51,1,Paid,661.51,0.0,No complaint,,661.51,False
+100004,2023-11-15,C0019, Accessories,Phone Case,36.72,1,Paid,36.72,36.72,No complaint,,0.0,True
+100378,2023-11-28,C0229, Accessories ,Charger,16.51,1,Paid,16.51,0.0,No complaint,,16.51,False
+101021,2023-12-12,C0016,Smart Home,NordLock Pro,182.28,1,Paid,182.28,0.0,No complaint,,182.28,False
+100359,2023-11-28,C0029,Electronics,TV Pro,1552.56,1,Paid,1552.56,0.0,No complaint,,1552.56,False
+100429,2023-11-29,C0001,Accessories,Laptop Sleeve,26.0,1,Paid,26.0,0.0,No complaint,,26.0,False
+100277,2023-11-25,C0008,Electronics,NoiseCancel Headphones,172.79,1,Paid,172.79,0.0,No complaint,,172.79,False
+100267,2023-11-25,C0182,Smart Home,NordLock Pro,220.58,1,Paid,220.58,0.0,"Shipping Issue, Other",3.0,220.58,False
+100860,2023-12-09,C0009,Accessories,USB-C Cable,7.49,1,Paid,7.49,0.0,No complaint,,7.49,False
+100943,2023-12-11,C0115,Accessories,Charger,15.61,1,Paid,15.61,0.0,No complaint,,15.61,False
+100230,2023-11-24,C0003,Smart Home,NordPlug,30.79,1,Paid,30.79,0.0,No complaint,,30.79,False
+101038,2023-12-12,C0002,Electronics,Laptop X,1674.1,1,Paid,1674.1,0.0,No complaint,,1674.1,False
+100719,2023-12-06,C0007,Electronics,NoiseCancel Headphones,224.64,1,Paid,224.64,0.0,No complaint,,224.64,False
+100446,2023-11-30,C0026, Smart Home ,NordLock Pro,219.4,1,Paid,219.4,0.0,No complaint,,219.4,False
+100761,2023-12-07,C0120,Accessories,Charger,49.62,3,Paid,148.85999999999999,0.0,No complaint,,148.85999999999999,False
+100374,2023-11-28,C0001,Electronics,Tablet A,798.57,1,Paid,798.57,798.57,No complaint,,0.0,True
+100826,2023-12-08,C0001,Smart Home,NordLock Pro,188.48,1,Paid,188.48,0.0,No complaint,,188.48,False
+100695,2023-12-06,C0260,Electronics,Laptop X,1595.69,1,Paid,1595.69,0.0,No complaint,,1595.69,False
+100870,2023-12-09,C0005,Smart Home,NordLock Pro,180.98,1,Paid,180.98,0.0,No complaint,,180.98,False
+100223,2023-11-24,C0114, Accessories,Laptop Sleeve,15.24,1,Paid,15.24,0.0,No complaint,,15.24,False
+100459,2023-11-30,C0004, Accessories,Phone Case,13.42,1,Paid,13.42,0.0,Other,1.0,13.42,False
+100618,2023-12-04,C0218,Accessories,Wireless Mouse,24.87,2,Paid,49.74,0.0,No complaint,,49.74,False
+101193,2023-12-12,C0187,Electronics,Tablet A,661.51,1,Paid,661.51,11.14,No complaint,,650.37,True
+100201,2023-11-23,C0030,Accessories,Phone Case,36.25,1,Paid,36.25,0.0,No complaint,,36.25,False
+100550,2023-12-02,C0016,Accessories,Wireless Mouse,40.97,1,Paid,40.97,0.0,No complaint,,40.97,False
+100654,2023-12-05,C0019,Electronics,Tablet A,466.0,1,Paid,466.0,0.0,No complaint,,466.0,False
+100947,2023-12-11,C0177,Electronics,Laptop X,1501.09,1,Paid,1501.09,0.0,No complaint,,1501.09,False
+100343,2023-11-27,C0060,Accessories,USB-C Cable,20.0,4,Paid,80.0,0.0,No complaint,,80.0,False
+101083,2023-12-13,C0024,Accessories,USB-C Cable,7.31,2,Paid,14.62,0.0,No complaint,,14.62,False
+100632,2023-12-04,C0021,Electronics,Tablet A,331.45,1,Paid,331.45,0.0,No complaint,,331.45,False
+100006,2023-11-15,C0065,Electronics,Tablet A,728.62,1,Paid,728.62,0.0,No complaint,,728.62,False
+100109,2023-11-19,C0001, Electronics ,NoiseCancel Headphones,174.17,1,Paid,174.17,0.0,No complaint,,174.17,False
+100502,2023-12-01,C0038, Accessories ,Accessory Bundle,55.24,3,Paid,165.72,0.0,No complaint,,165.72,False
+100392,2023-11-28,C0026,Accessories,Charger,28.59,1,Paid,28.59,0.0,Product Defect,1.0,28.59,False
+100942,2023-12-11,C0018,Smart Home,NordLock Pro,228.75,1,Paid,228.75,228.75,No complaint,,0.0,True
+100518,2023-12-02,C0003, Smart Home ,NordTherm,114.81,1,Paid,114.81,0.0,No complaint,,114.81,False
+100480,2023-11-30,C0001,Electronics ,Laptop X,1688.15,1,Paid,1688.15,0.0,No complaint,,1688.15,False
+100800,2023-12-08,C0130, Electronics ,NoiseCancel Headphones,218.36,1,Paid,218.36,0.0,No complaint,,218.36,False
+100035,2023-11-16,C0103,Electronics,Laptop X,1462.0,1,Paid,1462.0,0.0,No complaint,,1462.0,False
+100920,2023-12-10,C0013, Electronics ,Smartphone Z,1052.91,2,Paid,2105.82,0.0,No complaint,,2105.82,False
+100009,2023-11-15,C0001,Electronics,NoiseCancel Headphones,250.52,1,Paid,250.52,0.0,No complaint,,250.52,False
+100790,2023-12-07,C0041,Accessories,Laptop Sleeve,25.0,1,Paid,25.0,0.0,Shipping Issue,1.0,25.0,False
+100232,2023-11-24,C0252, Smart Home ,NordLock Pro,249.0,1,Paid,249.0,0.0,No complaint,,249.0,False
+100441,2023-11-30,C0303,Accessories,Wireless Mouse,23.0,1,Paid,23.0,0.0,No complaint,,23.0,False
+100526,2023-12-02,C0010,Smart Home,NordLock Pro,196.94,1,Paid,196.94,0.0,No complaint,,196.94,False
+100625,2023-12-04,C0001,Accessories,Accessory Bundle,75.73,1,Paid,75.73,0.0,No complaint,,75.73,False
+100611,2023-12-04,C0024,Accessories,Phone Case,10.55,3,Paid,31.650000000000002,0.0,No complaint,,31.650000000000002,False
+100073,2023-11-18,C0001, Smart Home ,NordLock Pro,230.39,1,Paid,230.39,0.0,No complaint,,230.39,False
+100349,2023-11-27,C0044,Electronics,NoiseCancel Headphones,157.01,2,Paid,314.02,0.0,No complaint,,314.02,False
+100973,2023-12-11,C0001,Smart Home,NordLock Pro,186.97,1,Paid,186.97,0.0,No complaint,,186.97,False
+100095,2023-11-18,C0028,Accessories,Phone Case,27.74,1,Paid,27.74,0.0,No complaint,,27.74,False
+100544,2023-12-02,C0001,Accessories,USB-C Cable,15.85,4,Paid,63.4,0.0,No complaint,,63.4,False
+101169,2023-11-30,C0001,Accessories,Wireless Mouse,49.02,1,Paid,49.02,0.0,No complaint,,49.02,False
+100210,2023-11-23,C0002,Electronics,Tablet A,367.82,1,Paid,367.82,0.0,No complaint,,367.82,False
+100481,2023-11-30,C0003, Accessories,Laptop Sleeve,22.0,1,Paid,22.0,0.0,No complaint,,22.0,False
+100282,2023-11-25,C0035,Electronics,NoiseCancel Headphones,176.84,1,Paid,176.84,0.0,No complaint,,176.84,False
+100107,2023-11-19,C0001,Accessories,Accessory Bundle,62.22,1,Paid,62.22,0.0,No complaint,,62.22,False
+101005,2023-12-12,C0003,Accessories,Wireless Mouse,53.67,1,Paid,53.67,0.0,Other,1.0,53.67,False
+100834,2023-12-08,C0001,Accessories,Charger,39.15,2,Paid,78.3,0.0,No complaint,,78.3,False
+100252,2023-11-24,C0312,Accessories,Charger,26.0,1,Paid,26.0,0.0,Product Defect,1.0,26.0,False
+101166,2023-11-17,C0003,Electronics,Tablet A,336.05,2,Paid,672.1,0.0,No complaint,,672.1,False
+100390,2023-11-28,C0002,Accessories,Charger,30.55,2,Paid,61.1,0.0,No complaint,,61.1,False
+100929,2023-12-10,C0083,Accessories,Phone Case,22.44,1,Paid,22.44,0.0,Shipping Issue,1.0,22.44,False
+100939,2023-12-11,C0001, Accessories ,USB-C Cable,11.22,1,Paid,11.22,0.0,No complaint,,11.22,False
+100328,2023-11-27,C0001, Accessories,Phone Case,10.0,3,Paid,30.0,0.0,No complaint,,30.0,False
+100969,2023-12-11,C0006,Accessories,Screen Protector,13.28,1,Paid,13.28,0.0,Product Defect,1.0,13.28,False
+100013,2023-11-15,C0261,Accessories,Laptop Sleeve,33.9,2,Paid,67.8,0.0,No complaint,,67.8,False
+101026,2023-12-12,C0001,Electronics,Smartphone Z,829.05,1,Paid,829.05,0.0,No complaint,,829.05,False
+100669,2023-12-05,C0002,Smart Home,NordPlug,31.3,2,Paid,62.6,0.0,No complaint,,62.6,False
+101074,2023-12-13,C0048,Smart Home,NordLock Pro,235.67,1,Paid,235.67,0.0,No complaint,,235.67,False
+100937,2023-12-11,C0076,Electronics ,Smartphone Z,889.83,1,Paid,889.83,0.0,No complaint,,889.83,False
+101076,2023-12-13,C0005,Smart Home,NordLock Pro,187.08,1,Paid,187.08,0.0,Other,1.0,187.08,False
+100934,2023-12-11,C0002,Accessories,Charger,38.56,1,Paid,38.56,0.0,No complaint,,38.56,False
+100989,2023-12-12,C0040,Smart Home,NordLock Pro,185.28,2,Paid,370.56,0.0,No complaint,,370.56,False
+100214,2023-11-23,C0002,Smart Home,NordLock Pro,212.69,1,Paid,212.69,0.0,No complaint,,212.69,False
+100217,2023-11-23,C0001,Electronics,Smartphone Z,706.71,2,Paid,1413.42,0.0,No complaint,,1413.42,False
+100917,2023-12-10,C0007, Electronics ,TV Pro,1563.41,1,Paid,1563.41,0.0,No complaint,,1563.41,False
+100614,2023-12-04,C0002, Accessories,Wireless Mouse,28.43,1,Paid,28.43,0.0,No complaint,,28.43,False
+100823,2023-12-08,C0001,Smart Home,NordLock Pro,229.47,1,Paid,229.47,0.0,No complaint,,229.47,False
+100423,2023-11-29,C0021,Accessories,Screen Protector,14.89,2,Paid,29.78,0.0,No complaint,,29.78,False
+100999,2023-12-12,C0052,Smart Home,NordLock Pro,207.41,1,Paid,207.41,0.0,No complaint,,207.41,False
+100568,2023-12-03,C0083, Smart Home ,NordCam Mini,63.87,1,Paid,63.87,0.0,Product Defect,1.0,63.87,False
+100422,2023-11-29,C0001,Electronics,Laptop X,1419.85,1,Paid,1419.85,0.0,No complaint,,1419.85,False
+100069,2023-11-17,C0006,Accessories,Phone Case,34.42,2,Paid,68.84,0.0,No complaint,,68.84,False
+100554,2023-12-02,C0003,Accessories,Accessory Bundle,84.79,4,Paid,339.16,0.0,No complaint,,339.16,False
+100086,2023-11-18,C0001,Electronics,TV Pro,1344.25,1,Paid,1344.25,0.0,No complaint,,1344.25,False
+100247,2023-11-24,C0005,Smart Home,NordLock Pro,229.97,1,Paid,229.97,0.0,No complaint,,229.97,False
+100467,2023-11-30,C0001,Electronics ,Tablet A,359.78,1,Paid,359.78,0.0,No complaint,,359.78,False
+100430,2023-11-29,C0099,Electronics,Smartphone Z,1003.81,2,Paid,2007.62,0.0,No complaint,,2007.62,False
+100418,2023-11-29,C0002,Electronics,Smartphone Z,741.1,1,Paid,741.1,0.0,No complaint,,741.1,False
+100413,2023-11-29,C0094,Electronics,NoiseCancel Headphones,245.0,1,Paid,245.0,0.0,No complaint,,245.0,False
+100647,2023-12-05,C0071,Electronics,Smartphone Z,796.55,1,Paid,796.55,0.0,No complaint,,796.55,False
+100197,2023-11-23,C0001,Electronics,Tablet A,308.88,1,Paid,308.88,0.0,No complaint,,308.88,False
+100226,2023-11-24,C0002, Electronics ,TV Pro,1686.65,1,Paid,1686.65,0.0,No complaint,,1686.65,False
+100729,2023-12-06,C0003,Accessories,Charger,21.85,2,Paid,43.7,0.0,No complaint,,43.7,False
+100285,2023-11-25,C0020,Electronics ,TV Pro,1544.21,1,Paid,1544.21,0.0,Product Defect,1.0,1544.21,False
+100660,2023-12-05,C0014,Smart Home,NordCam Mini,89.26,2,Paid,178.52,0.0,No complaint,,178.52,False
+100879,2023-12-09,C0030, Smart Home ,NordLock Pro,202.78,1,Paid,202.78,0.0,No complaint,,202.78,False
+100112,2023-11-19,C0042,Smart Home,NordLock Pro,194.0,1,Paid,194.0,0.0,No complaint,,194.0,False
+100545,2023-12-02,C0032,Electronics,Laptop X,1364.71,1,Paid,1364.71,0.0,No complaint,,1364.71,False
+100993,2023-12-12,C0003, Electronics ,Tablet A,654.25,1,Paid,654.25,0.0,No complaint,,654.25,False
+100685,2023-12-05,C0034,Electronics,TV Pro,1683.74,1,Paid,1683.74,0.0,No complaint,,1683.74,False
+100818,2023-12-08,C0033,Electronics,Smartphone Z,900.82,1,Paid,900.82,0.0,"Other, Product Defect",2.0,900.82,False
+100381,2023-11-28,C0073, Electronics ,Tablet A,565.48,1,Paid,565.48,0.0,Refund Request,1.0,565.48,False
+100500,2023-12-01,C0002,Smart Home,NordLock Pro,214.0,1,Paid,214.0,0.0,No complaint,,214.0,False
+101042,2023-12-13,C0001,Smart Home,NordLock Pro,245.35,1,Paid,245.35,0.0,No complaint,,245.35,False
+100926,2023-12-10,C0229,Smart Home,NordTherm,126.44,1,Paid,126.44,0.0,No complaint,,126.44,False
+100780,2023-12-07,C0003, Accessories,Laptop Sleeve,36.14,2,Paid,72.28,0.0,No complaint,,72.28,False
+100291,2023-11-25,C0003,Electronics,Smartphone Z,1056.7,1,Paid,1056.7,0.0,No complaint,,1056.7,False
+100389,2023-11-28,C0001,Smart Home,NordLock Pro,210.88,1,Paid,210.88,0.0,No complaint,,210.88,False
+100360,2023-11-28,C0001,Electronics,TV Pro,1020.44,1,Paid,1020.44,0.0,No complaint,,1020.44,False
+100407,2023-11-29,C0001,Electronics,Laptop X,1506.44,1,Paid,1506.44,0.0,No complaint,,1506.44,False
+100365,2023-11-28,C0023,Electronics,TV Pro,1015.17,1,Paid,1015.17,1015.17,No complaint,,0.0,True
+100525,2023-12-02,C0001, Electronics ,Smartphone Z,899.0,1,Paid,899.0,0.0,No complaint,,899.0,False
+100575,2023-12-03,C0203, Electronics ,TV Pro,1308.91,1,Paid,1308.91,0.0,Shipping Issue,1.0,1308.91,False
+101033,2023-12-12,C0002,Smart Home,NordLock Pro,208.0,2,Paid,416.0,416.0,No complaint,,0.0,True
+100694,2023-12-06,C0002, Electronics ,Tablet A,362.0,1,Paid,362.0,0.0,No complaint,,362.0,False
+100705,2023-12-06,C0083,Smart Home,NordLock Pro,203.62,1,Paid,203.62,0.0,No complaint,,203.62,False
+100702,2023-12-06,C0149,Electronics,NoiseCancel Headphones,203.0,1,Paid,203.0,0.0,No complaint,,203.0,False
+100113,2023-11-19,C0003, Accessories ,Laptop Sleeve,36.03,2,Paid,72.06,0.0,No complaint,,72.06,False
+100103,2023-11-19,C0005, Electronics ,Tablet A,647.19,1,Paid,647.19,0.0,No complaint,,647.19,False
+100590,2023-12-03,C0003,Electronics,Laptop X,1488.81,1,Paid,1488.81,0.0,No complaint,,1488.81,False
+100191,2023-11-23,C0062,Electronics,Tablet A,382.77,1,Paid,382.77,0.0,No complaint,,382.77,False
+101137,2023-12-14,C0014, Electronics ,Laptop X,1653.81,1,Paid,1653.81,0.0,Other,1.0,1653.81,False
+100957,2023-12-11,C0007, Accessories ,Accessory Bundle,44.45,1,Paid,44.45,0.0,No complaint,,44.45,False
+100741,2023-12-07,C0015, Electronics ,NoiseCancel Headphones,163.13,1,Paid,163.13,0.0,No complaint,,163.13,False
+100053,2023-11-17,C0003,Electronics,NoiseCancel Headphones,266.47,1,Paid,266.47,0.0,No complaint,,266.47,False
+100029,2023-11-16,C0011,Accessories,Screen Protector,8.6,1,Paid,8.6,0.0,No complaint,,8.6,False
+100066,2023-11-17,C0048,Electronics,Laptop X,1460.0,1,Paid,1460.0,0.0,Other,1.0,1460.0,False
+100875,2023-12-09,C0016,Electronics,Tablet A,496.6,1,Paid,496.6,0.0,No complaint,,496.6,False
+100246,2023-11-24,C0017,Accessories,Phone Case,34.84,1,Paid,34.84,0.0,No complaint,,34.84,False
+100803,2023-12-08,C0241,Electronics,Tablet A,474.94,1,Paid,474.94,0.0,No complaint,,474.94,False
+101078,2023-12-13,C0006, Accessories ,Charger,25.23,1,Paid,25.23,0.0,No complaint,,25.23,False
+101127,2023-12-14,C0001, Accessories ,Phone Case,24.22,3,Paid,72.66,0.0,No complaint,,72.66,False
+100844,2023-12-08,C0067,Electronics,TV Pro,1183.75,1,Paid,1183.75,0.0,No complaint,,1183.75,False
+100595,2023-12-03,C0023,Electronics ,NoiseCancel Headphones,265.61,1,Paid,265.61,0.0,No complaint,,265.61,False
+100309,2023-11-26,C0002, Accessories,Wireless Mouse,54.66,4,Paid,218.64,0.0,No complaint,,218.64,False
+100903,2023-12-10,C0001,Smart Home,NordLock Pro,228.51,1,Paid,228.51,0.0,No complaint,,228.51,False
+100387,2023-11-28,C0001,Accessories,Phone Case,39.44,2,Paid,78.88,0.0,No complaint,,78.88,False
+100872,2023-12-09,C0003,Electronics,Tablet A,696.0,1,Paid,696.0,0.0,No complaint,,696.0,False
+100355,2023-11-28,C0001,Electronics ,Smartphone Z,917.35,2,Paid,1834.7,0.0,No complaint,,1834.7,False
+101023,2023-12-12,C0001, Accessories,Charger,18.52,1,Paid,18.52,0.0,No complaint,,18.52,False
+100160,2023-11-21,C0001,Accessories,Screen Protector,13.38,1,Paid,13.38,0.0,No complaint,,13.38,False
+100187,2023-11-22,C0245,Accessories,USB-C Cable,7.37,3,Paid,22.11,0.0,No complaint,,22.11,False
+100245,2023-11-24,C0041,Electronics,Laptop X,1469.0,1,Paid,1469.0,0.0,No complaint,,1469.0,False
+101056,2023-12-13,C0009,Electronics ,Laptop X,1727.39,1,Paid,1727.39,0.0,No complaint,,1727.39,False
+100076,2023-11-18,C0007,Electronics,Laptop X,1388.82,1,Paid,1388.82,0.0,No complaint,,1388.82,False
+100158,2023-11-21,C0228,Smart Home,NordCam Mini,93.0,1,Paid,93.0,0.0,No complaint,,93.0,False
+100127,2023-11-20,C0064,Accessories,Charger,21.16,1,Paid,21.16,0.0,No complaint,,21.16,False
+100745,2023-12-07,C0004, Accessories ,Screen Protector,10.85,2,Paid,21.7,0.0,No complaint,,21.7,False
+100724,2023-12-06,C0002,Electronics,NoiseCancel Headphones,172.37,1,Paid,172.37,0.0,No complaint,,172.37,False
+100323,2023-11-27,C0006,Accessories,Charger,34.9,1,Paid,34.9,0.0,No complaint,,34.9,False
+100874,2023-12-09,C0001,Electronics,Laptop X,1451.05,1,Paid,1451.05,0.0,No complaint,,1451.05,False
+101054,2023-12-13,C0114,Electronics,Laptop X,1363.58,1,Paid,1363.58,0.0,No complaint,,1363.58,False
+100805,2023-12-08,C0060, Electronics ,TV Pro,1323.1,1,Paid,1323.1,0.0,No complaint,,1323.1,False
+100213,2023-11-23,C0135, Electronics ,Tablet A,522.41,1,Paid,522.41,0.0,Other,1.0,522.41,False
+100778,2023-12-07,C0001,Accessories,Laptop Sleeve,27.03,2,Paid,54.06,0.0,No complaint,,54.06,False
+100104,2023-11-19,C0004,Electronics ,Laptop X,1568.65,1,Paid,1568.65,0.0,No complaint,,1568.65,False
+100754,2023-12-07,C0006,Accessories,Charger,30.68,2,Paid,61.36,0.0,Product Defect,1.0,61.36,False
+101110,2023-12-14,C0001, Electronics ,Tablet A,386.48,1,Paid,386.48,0.0,No complaint,,386.48,False
+100960,2023-12-11,C0001,Electronics ,TV Pro,969.19,1,Paid,969.19,0.0,No complaint,,969.19,False
+100846,2023-12-09,C0054,Accessories,Laptop Sleeve,41.46,3,Paid,124.38,0.0,"Other, Product Defect",3.0,124.38,False
+101194,2023-12-14,C0042,Electronics,TV Pro,1610.06,1,Paid,1610.06,0.0,No complaint,,1610.06,False
+100521,2023-12-02,C0002,Smart Home,NordPlug,16.97,1,Paid,16.97,0.0,No complaint,,16.97,False
+101136,2023-12-14,C0007,Electronics,Smartphone Z,1070.71,2,Paid,2141.42,0.0,No complaint,,2141.42,False
+100771,2023-12-07,C0030,Accessories,Laptop Sleeve,20.44,2,Paid,40.88,0.0,No complaint,,40.88,False
+100229,2023-11-24,C0002,Accessories,Phone Case,10.91,2,Paid,21.82,0.0,No complaint,,21.82,False
+100750,2023-12-07,C0003,Smart Home,NordLock Pro,190.45,2,Paid,380.9,380.9,No complaint,,0.0,True
+100274,2023-11-25,C0012,Electronics,Laptop X,1700.98,1,Paid,1700.98,0.0,No complaint,,1700.98,False
+100876,2023-12-09,C0007, Accessories ,USB-C Cable,16.85,3,Paid,50.550000000000004,0.0,No complaint,,50.550000000000004,False
+100183,2023-11-22,C0094,Smart Home,NordLock Pro,221.01,1,Paid,221.01,0.0,No complaint,,221.01,False
+101016,2023-12-12,C0001,Electronics,TV Pro,1462.11,1,Paid,1462.11,0.0,No complaint,,1462.11,False
+100198,2023-11-23,C0156,Electronics,NoiseCancel Headphones,296.85,1,Paid,296.85,0.0,No complaint,,296.85,False
+100794,2023-12-07,C0038,Electronics,Tablet A,588.66,1,Paid,588.66,0.0,No complaint,,588.66,False
+100670,2023-12-05,C0024,Electronics,NoiseCancel Headphones,250.75,1,Paid,250.75,0.0,No complaint,,250.75,False
+100463,2023-11-30,C0013, Accessories ,USB-C Cable,8.39,1,Paid,8.39,0.0,No complaint,,8.39,False
+100452,2023-11-30,C0072,Electronics,Smartphone Z,983.68,1,Paid,983.68,0.0,No complaint,,983.68,False
+100090,2023-11-18,C0003,Electronics ,Smartphone Z,717.75,1,Paid,717.75,0.0,No complaint,,717.75,False
+101139,2023-11-27,C0044,Electronics,NoiseCancel Headphones,157.01,2,Paid,314.02,0.0,No complaint,,314.02,False
+101096,2023-12-14,C0086,Smart Home,NordCam Mini,85.43,1,Paid,85.43,0.0,No complaint,,85.43,False
+100487,2023-12-01,C0240, Accessories ,Accessory Bundle,27.89,1,Paid,27.89,27.89,Product Defect,1.0,0.0,True
+100051,2023-11-17,C0006,Electronics,Tablet A,740.0,1,Paid,740.0,0.0,No complaint,,740.0,False
+100854,2023-12-09,C0084, Accessories,Wireless Mouse,26.0,1,Paid,26.0,0.0,No complaint,,26.0,False
+100416,2023-11-29,C0125, Accessories,Laptop Sleeve,39.4,3,Paid,118.19999999999999,0.0,No complaint,,118.19999999999999,False
+100677,2023-12-05,C0207,Electronics,Smartphone Z,735.52,1,Paid,735.52,0.0,No complaint,,735.52,False
+100367,2023-11-28,C0016,Electronics,Tablet A,740.02,1,Paid,740.02,0.0,No complaint,,740.02,False
+100535,2023-12-02,C0001, Smart Home ,NordLock Pro,220.39,1,Paid,220.39,0.0,No complaint,,220.39,False
+100831,2023-12-08,C0042,Electronics,Laptop X,1620.72,1,Paid,1620.72,0.0,No complaint,,1620.72,False
+100235,2023-11-24,C0002,Electronics,Tablet A,386.12,1,Paid,386.12,0.0,No complaint,,386.12,False
+100490,2023-12-01,C0001, Accessories ,Laptop Sleeve,34.29,1,Paid,34.29,0.0,No complaint,,34.29,False
+100681,2023-12-05,C0002,Electronics,Laptop X,1495.01,1,Paid,1495.01,0.0,No complaint,,1495.01,False
+101007,2023-12-12,C0008,Electronics,Tablet A,332.54,1,Paid,332.54,0.0,No complaint,,332.54,False
+100868,2023-12-09,C0002,Smart Home,NordLock Pro,187.0,2,Paid,374.0,374.0,No complaint,,0.0,True
+100402,2023-11-29,C0022,Electronics,Laptop X,1456.95,2,Paid,2913.9,0.0,No complaint,,2913.9,False
+100699,2023-12-06,C0057, Accessories,Screen Protector,6.05,1,Paid,6.05,0.0,No complaint,,6.05,False
+100738,2023-12-07,C0138, Accessories,Charger,34.63,1,Paid,34.63,0.0,No complaint,,34.63,False
+100439,2023-11-30,C0001,Smart Home,NordLock Pro,216.05,1,Paid,216.05,0.0,No complaint,,216.05,False
+100528,2023-12-02,C0239, Accessories ,Wireless Mouse,33.63,2,Paid,67.26,0.0,No complaint,,67.26,False
+100995,2023-12-12,C0041, Accessories,Accessory Bundle,96.03,3,Paid,288.09000000000003,0.0,No complaint,,288.09000000000003,False
+100369,2023-11-28,C0006,Electronics,Laptop X,1403.95,1,Paid,1403.95,0.0,No complaint,,1403.95,False
+100877,2023-12-09,C0002,Smart Home,NordLock Pro,218.56,1,Paid,218.56,0.0,No complaint,,218.56,False
+100864,2023-12-09,C0001,Accessories,Laptop Sleeve,23.0,1,Paid,23.0,0.0,No complaint,,23.0,False
+100152,2023-11-21,C0056,Accessories,Laptop Sleeve,19.03,1,Paid,19.03,0.0,No complaint,,19.03,False
+100133,2023-11-20,C0001, Accessories ,USB-C Cable,18.72,3,Paid,56.16,0.0,No complaint,,56.16,False
+100739,2023-12-07,C0061, Electronics ,Smartphone Z,1073.23,1,Paid,1073.23,0.0,No complaint,,1073.23,False
+100030,2023-11-16,C0027,Accessories,USB-C Cable,7.17,2,Paid,14.34,0.0,No complaint,,14.34,False
+100640,2023-12-04,C0257, Smart Home ,NordLock Pro,224.35,1,Paid,224.35,0.0,Product Defect,1.0,224.35,False
+100941,2023-12-11,C0004,Accessories,USB-C Cable,16.0,1,Paid,16.0,0.0,No complaint,,16.0,False
+100239,2023-11-24,C0126,Accessories,USB-C Cable,9.1,1,Paid,9.1,0.0,"Product Defect, Shipping Issue",2.0,9.1,False
+100674,2023-12-05,C0002,Electronics,Laptop X,1614.66,1,Paid,1614.66,0.0,No complaint,,1614.66,False
+101170,2023-11-17,C0157,Electronics ,Tablet A,479.0,1,Paid,479.0,0.0,No complaint,,479.0,False
+100774,2023-12-07,C0058, Smart Home ,NordLock Pro,248.12,1,Paid,248.12,0.0,"Other, Shipping Issue",2.0,248.12,False
+101010,2023-12-12,C0016, Accessories,Laptop Sleeve,15.7,3,Paid,47.099999999999994,0.0,No complaint,,47.099999999999994,False
+100324,2023-11-27,C0002,Accessories,Screen Protector,12.57,4,Paid,50.28,0.0,No complaint,,50.28,False
+100629,2023-12-04,C0002,Smart Home,NordTherm,117.11,1,Paid,117.11,0.0,No complaint,,117.11,False
+100855,2023-12-09,C0005,Electronics,NoiseCancel Headphones,190.71,1,Paid,190.71,0.0,No complaint,,190.71,False
+100770,2023-12-07,C0001,Accessories,Phone Case,27.76,1,Paid,27.76,0.0,No complaint,,27.76,False
+100746,2023-12-07,C0198,Smart Home,NordLock Pro,235.6,1,Paid,235.6,0.0,Other,1.0,235.6,False
+101165,2023-12-11,C0002,Accessories,Charger,38.56,1,Paid,38.56,10.75,Shipping Issue,1.0,27.810000000000002,True
+101138,2023-11-28,C0237,Smart Home,NordLock Pro,208.61,2,Paid,417.22,0.0,No complaint,,417.22,False
+100380,2023-11-28,C0031,Electronics,TV Pro,1095.55,1,Paid,1095.55,0.0,No complaint,,1095.55,False
+100559,2023-12-03,C0001, Accessories,Wireless Mouse,35.34,3,Paid,106.02000000000001,0.0,No complaint,,106.02000000000001,False
+100516,2023-12-02,C0003,Accessories,Screen Protector,12.0,2,Paid,24.0,0.0,No complaint,,24.0,False
+100881,2023-12-09,C0267,Smart Home,NordLock Pro,228.02,1,Paid,228.02,0.0,"Other, Shipping Issue",2.0,228.02,False
+100952,2023-12-11,C0001, Accessories,USB-C Cable,13.8,2,Paid,27.6,0.0,No complaint,,27.6,False
+101008,2023-12-12,C0004,Smart Home,NordLock Pro,242.09,1,Paid,242.09,0.0,No complaint,,242.09,False
+100748,2023-12-07,C0002,Accessories,Accessory Bundle,84.53,1,Paid,84.53,0.0,Product Defect,1.0,84.53,False
+100667,2023-12-05,C0001,Accessories,Laptop Sleeve,26.6,1,Paid,26.6,0.0,No complaint,,26.6,False
+101186,2023-12-12,C0001, Accessories ,USB-C Cable,13.0,3,Paid,39.0,0.0,No complaint,,39.0,False
+100351,2023-11-27,C0002,Electronics,Laptop X,1494.48,1,Paid,1494.48,0.0,No complaint,,1494.48,False
+101172,2023-11-22,C0094,Smart Home,NordLock Pro,221.01,1,Paid,221.01,0.0,No complaint,,221.01,False
+101036,2023-12-12,C0035,Accessories,Laptop Sleeve,28.0,1,Paid,28.0,0.0,No complaint,,28.0,False
+100792,2023-12-07,C0003,Smart Home,NordLock Pro,246.21,1,Paid,246.21,0.0,No complaint,,246.21,False
+100052,2023-11-17,C0003, Accessories,Screen Protector,12.69,1,Paid,12.69,0.0,No complaint,,12.69,False
+100037,2023-11-16,C0055,Smart Home,NordLock Pro,222.22,1,Paid,222.22,0.0,No complaint,,222.22,False
+100610,2023-12-04,C0004, Smart Home ,NordPlug,32.97,2,Paid,65.94,0.0,No complaint,,65.94,False
+100079,2023-11-18,C0011, Accessories ,Laptop Sleeve,44.0,1,Paid,44.0,0.0,No complaint,,44.0,False
+100014,2023-11-15,C0115,Accessories,Charger,19.07,1,Paid,19.07,0.0,No complaint,,19.07,False
+100059,2023-11-17,C0157,Electronics ,Tablet A,479.0,1,Paid,479.0,0.0,No complaint,,479.0,False
+100576,2023-12-03,C0023,Electronics ,Smartphone Z,976.35,1,Paid,976.35,0.0,No complaint,,976.35,False
+100234,2023-11-24,C0003,Electronics,Tablet A,525.74,1,Paid,525.74,0.0,No complaint,,525.74,False
+100479,2023-11-30,C0003,Accessories,Accessory Bundle,92.28,1,Paid,92.28,0.0,No complaint,,92.28,False
+100405,2023-11-29,C0204,Accessories,Phone Case,24.0,1,Paid,24.0,0.0,No complaint,,24.0,False
+100884,2023-12-09,C0009, Electronics ,TV Pro,1041.39,1,Paid,1041.39,0.0,No complaint,,1041.39,False
+100488,2023-12-01,C0003,Smart Home,NordTherm,109.04,1,Paid,109.04,0.0,No complaint,,109.04,False
+100472,2023-11-30,C0009, Accessories ,Phone Case,26.0,1,Paid,26.0,0.0,No complaint,,26.0,False
+100257,2023-11-24,C0013, Accessories,Accessory Bundle,40.65,3,Paid,121.94999999999999,0.0,"Shipping Issue, Product Defect",2.0,121.94999999999999,False
+100895,2023-12-10,C0014,Electronics ,Laptop X,1779.0,1,Paid,1779.0,0.0,No complaint,,1779.0,False
+101091,2023-12-14,C0001,Electronics,NoiseCancel Headphones,158.87,1,Paid,158.87,0.0,No complaint,,158.87,False
+100139,2023-11-21,C0198,Electronics ,Smartphone Z,798.87,1,Paid,798.87,0.0,No complaint,,798.87,False
+100492,2023-12-01,C0025,Electronics,TV Pro,1384.66,1,Paid,1384.66,0.0,No complaint,,1384.66,False
+100579,2023-12-03,C0045, Accessories ,Accessory Bundle,86.12,2,Paid,172.24,0.0,No complaint,,172.24,False
+100707,2023-12-06,C0029, Accessories ,Wireless Mouse,41.44,1,Paid,41.44,0.0,No complaint,,41.44,False
+100207,2023-11-23,C0244,Electronics,Laptop X,1442.2,1,Paid,1442.2,0.0,Other,1.0,1442.2,False
+100849,2023-12-09,C0026,Accessories,Laptop Sleeve,17.69,1,Paid,17.69,0.0,No complaint,,17.69,False
+101179,2023-11-22,C0245,Accessories,USB-C Cable,7.37,3,Paid,22.11,0.0,No complaint,,22.11,False
+100001,2023-11-15,C0001, Accessories ,Phone Case,13.56,2,Paid,27.12,0.0,No complaint,,27.12,False
+100227,2023-11-24,C0015,Accessories,Screen Protector,13.01,3,Paid,39.03,0.0,No complaint,,39.03,False
+100250,2023-11-24,C0057, Smart Home ,NordLock Pro,203.53,1,Paid,203.53,0.0,No complaint,,203.53,False
+100890,2023-12-09,C0001,Smart Home,NordPlug,31.47,1,Paid,31.47,0.0,No complaint,,31.47,False
+100706,2023-12-06,C0010,Smart Home,NordLock Pro,181.27,1,Paid,181.27,0.0,No complaint,,181.27,False
+100980,2023-12-11,C0145,Accessories,Screen Protector,5.13,4,Paid,20.52,0.0,No complaint,,20.52,False
+101030,2023-12-12,C0005,Electronics,Laptop X,1456.47,1,Paid,1456.47,0.0,No complaint,,1456.47,False
+100284,2023-11-25,C0001,Electronics,Tablet A,671.18,1,Paid,671.18,0.0,No complaint,,671.18,False
+100314,2023-11-26,C0004, Smart Home ,NordCam Mini,87.73,1,Paid,87.73,0.0,No complaint,,87.73,False
+100597,2023-12-04,C0176, Accessories,Phone Case,36.31,1,Paid,36.31,0.0,Product Defect,1.0,36.31,False
+100060,2023-11-17,C0048,Accessories,Phone Case,31.47,2,Paid,62.94,0.0,No complaint,,62.94,False
+101080,2023-12-13,C0158, Accessories ,Accessory Bundle,61.58,1,Paid,61.58,0.0,No complaint,,61.58,False
+100987,2023-12-11,C0028,Smart Home,NordLock Pro,188.0,1,Paid,188.0,0.0,No complaint,,188.0,False
+100970,2023-12-11,C0001, Electronics ,NoiseCancel Headphones,164.02,1,Paid,164.02,0.0,No complaint,,164.02,False
+101157,2023-12-10,C0224, Accessories ,Accessory Bundle,47.39,1,Paid,47.39,0.0,Other,1.0,47.39,False
+101145,2023-11-30,C0008,Electronics,Tablet A,355.2,1,Paid,355.2,0.0,No complaint,,355.2,False
+100759,2023-12-07,C0004,Electronics,Smartphone Z,1086.15,2,Paid,2172.3,0.0,No complaint,,2172.3,False
+100979,2023-12-11,C0003,Accessories,Phone Case,13.89,1,Paid,13.89,0.0,No complaint,,13.89,False
+101113,2023-12-14,C0074, Electronics ,Laptop X,1396.43,1,Paid,1396.43,0.0,No complaint,,1396.43,False
+100313,2023-11-26,C0003,Electronics,Smartphone Z,955.3,1,Paid,955.3,0.0,No complaint,,955.3,False
+100092,2023-11-18,C0001, Electronics ,TV Pro,1264.2,1,Paid,1264.2,0.0,No complaint,,1264.2,False
+100722,2023-12-06,C0007, Accessories,USB-C Cable,12.52,4,Paid,50.08,0.0,No complaint,,50.08,False
+100735,2023-12-06,C0001,Electronics,NoiseCancel Headphones,206.95,1,Paid,206.95,0.0,No complaint,,206.95,False
+100812,2023-12-08,C0006,Electronics,Tablet A,470.11,2,Paid,940.22,940.22,No complaint,,0.0,True
+100460,2023-11-30,C0002,Electronics,Smartphone Z,1062.04,1,Paid,1062.04,0.0,No complaint,,1062.04,False
+101125,2023-12-14,C0023, Smart Home ,NordLock Pro,226.29,1,Paid,226.29,0.0,No complaint,,226.29,False
+100850,2023-12-09,C0005, Accessories ,Screen Protector,6.8,2,Paid,13.6,0.0,No complaint,,13.6,False
+100384,2023-11-28,C0051,Electronics ,Tablet A,770.0,1,Paid,770.0,0.0,"Other, Shipping Issue",2.0,770.0,False
+100018,2023-11-15,C0009, Accessories,Wireless Mouse,57.97,1,Paid,57.97,0.0,No complaint,,57.97,False
+100956,2023-12-11,C0014, Electronics ,Tablet A,743.7,1,Paid,743.7,0.0,No complaint,,743.7,False
+101077,2023-12-13,C0001, Accessories ,Charger,46.12,2,Paid,92.24,0.0,No complaint,,92.24,False
+101067,2023-12-13,C0003, Accessories,Charger,26.56,4,Paid,106.24,0.0,No complaint,,106.24,False
+100988,2023-12-11,C0001,Electronics ,Smartphone Z,883.0,1,Paid,883.0,0.0,No complaint,,883.0,False
+101015,2023-12-12,C0001,Smart Home,NordLock Pro,232.09,1,Paid,232.09,0.0,No complaint,,232.09,False
+101161,2023-11-23,C0063,Electronics,Smartphone Z,1077.99,1,Paid,1077.99,0.0,No complaint,,1077.99,False
+100126,2023-11-20,C0023,Electronics ,Tablet A,511.14,1,Paid,511.14,0.0,No complaint,,511.14,False
+100512,2023-12-01,C0042,Electronics,TV Pro,1179.0,1,Paid,1179.0,0.0,"Product Defect, Other, Shipping Issue",11.0,1179.0,False
+100077,2023-11-18,C0004,Accessories,Wireless Mouse,57.3,1,Paid,57.3,0.0,No complaint,,57.3,False
+100931,2023-12-11,C0049,Electronics,Tablet A,554.07,1,Paid,554.07,0.0,No complaint,,554.07,False
+100142,2023-11-21,C0004,Electronics,Tablet A,599.07,1,Paid,599.07,0.0,No complaint,,599.07,False
+100819,2023-12-08,C0087,Smart Home,NordPlug,17.09,1,Paid,17.09,0.0,No complaint,,17.09,False
+101162,2023-11-20,C0271,Electronics,Laptop X,1394.09,1,Paid,1394.09,0.0,No complaint,,1394.09,False
+100788,2023-12-07,C0151,Accessories,USB-C Cable,8.71,2,Paid,17.42,0.0,No complaint,,17.42,False
+100556,2023-12-03,C0005,Electronics,Laptop X,1382.75,1,Paid,1382.75,0.0,No complaint,,1382.75,False
+101057,2023-12-13,C0004,Smart Home,NordLock Pro,223.76,1,Paid,223.76,223.76,No complaint,,0.0,True
+100016,2023-11-15,C0023,Electronics,TV Pro,1449.46,1,Paid,1449.46,0.0,No complaint,,1449.46,False
+100499,2023-12-01,C0068,Electronics,Tablet A,461.35,1,Paid,461.35,0.0,No complaint,,461.35,False
+100767,2023-12-07,C0028, Accessories,Phone Case,11.57,4,Paid,46.28,0.0,"Product Defect, Other",2.0,46.28,False
+100948,2023-12-11,C0013,Electronics,Tablet A,635.0,1,Paid,635.0,0.0,No complaint,,635.0,False
+100982,2023-12-11,C0009,Electronics,Tablet A,646.0,1,Paid,646.0,0.0,No complaint,,646.0,False
+100242,2023-11-24,C0276, Smart Home ,NordLock Pro,205.21,1,Paid,205.21,0.0,No complaint,,205.21,False
+100530,2023-12-02,C0005,Accessories,USB-C Cable,18.78,1,Paid,18.78,0.0,No complaint,,18.78,False
+100344,2023-11-27,C0013,Electronics,Tablet A,691.81,1,Paid,691.81,0.0,No complaint,,691.81,False
+100887,2023-12-09,C0001,Accessories,USB-C Cable,14.0,1,Paid,14.0,0.0,No complaint,,14.0,False
+100507,2023-12-01,C0196,Electronics,Tablet A,376.91,1,Paid,376.91,0.0,No complaint,,376.91,False
+101190,2023-11-27,C0001, Accessories ,Phone Case,12.21,2,Paid,24.42,0.0,No complaint,,24.42,False
+100216,2023-11-23,C0006,Smart Home,NordLock Pro,218.7,1,Paid,218.7,0.0,No complaint,,218.7,False
+100209,2023-11-23,C0007, Accessories ,USB-C Cable,13.23,1,Paid,13.23,0.0,No complaint,,13.23,False
+100946,2023-12-11,C0052, Accessories,USB-C Cable,16.38,1,Paid,16.38,0.0,No complaint,,16.38,False
+100065,2023-11-17,C0039,Accessories,Phone Case,30.02,2,Paid,60.04,0.0,No complaint,,60.04,False
+100011,2023-11-15,C0002,Electronics,Laptop X,1491.63,1,Paid,1491.63,0.0,No complaint,,1491.63,False
+100253,2023-11-24,C0294,Accessories,Wireless Mouse,25.96,1,Paid,25.96,0.0,No complaint,,25.96,False
+100604,2023-12-04,C0001,Electronics,Tablet A,327.65,1,Paid,327.65,0.0,No complaint,,327.65,False
+100806,2023-12-08,C0001,Electronics ,NoiseCancel Headphones,333.3,1,Paid,333.3,0.0,No complaint,,333.3,False
+100315,2023-11-26,C0001,Smart Home,NordLock Pro,247.46,1,Paid,247.46,247.46,No complaint,,0.0,True
+100519,2023-12-02,C0001,Accessories,USB-C Cable,9.35,3,Paid,28.049999999999997,0.0,No complaint,,28.049999999999997,False
+100466,2023-11-30,C0002,Electronics,Smartphone Z,916.13,1,Paid,916.13,0.0,No complaint,,916.13,False
+100932,2023-12-11,C0132,Accessories,USB-C Cable,7.4,3,Paid,22.200000000000003,0.0,No complaint,,22.200000000000003,False
+100964,2023-12-11,C0003, Smart Home ,NordLock Pro,227.48,1,Paid,227.48,0.0,No complaint,,227.48,False
+100843,2023-12-08,C0006,Accessories,Accessory Bundle,27.11,1,Paid,27.11,0.0,No complaint,,27.11,False
+100368,2023-11-28,C0029,Smart Home,NordLock Pro,231.33,1,Paid,231.33,0.0,No complaint,,231.33,False
+100146,2023-11-21,C0001,Accessories,Screen Protector,12.09,1,Paid,12.09,0.0,No complaint,,12.09,False
+100363,2023-11-28,C0020,Electronics ,NoiseCancel Headphones,263.87,1,Paid,263.87,0.0,Shipping Issue,1.0,263.87,False
+100631,2023-12-04,C0002,Electronics,NoiseCancel Headphones,328.0,1,Paid,328.0,0.0,No complaint,,328.0,False
+100091,2023-11-18,C0001, Accessories,Laptop Sleeve,16.45,3,Paid,49.349999999999994,0.0,No complaint,,49.349999999999994,False
+100322,2023-11-27,C0011,Electronics,Laptop X,1704.39,1,Paid,1704.39,0.0,No complaint,,1704.39,False
+100186,2023-11-22,C0041,Electronics,NoiseCancel Headphones,191.23,1,Paid,191.23,0.0,No complaint,,191.23,False
+100869,2023-12-09,C0056,Smart Home,NordLock Pro,192.27,1,Paid,192.27,0.0,No complaint,,192.27,False
+100757,2023-12-07,C0047,Electronics ,NoiseCancel Headphones,229.65,2,Paid,459.3,0.0,No complaint,,459.3,False
+100120,2023-11-19,C0138,Electronics,Tablet A,374.99,1,Paid,374.99,0.0,No complaint,,374.99,False
+101063,2023-12-13,C0037,Accessories,Charger,36.0,4,Paid,144.0,0.0,No complaint,,144.0,False
+100841,2023-12-08,C0016,Smart Home,NordLock Pro,224.32,1,Paid,224.32,0.0,No complaint,,224.32,False
+100494,2023-12-01,C0059,Accessories,Wireless Mouse,46.58,1,Paid,46.58,0.0,No complaint,,46.58,False
+100444,2023-11-30,C0001,Accessories,Wireless Mouse,49.02,1,Paid,49.02,0.0,No complaint,,49.02,False
+100339,2023-11-27,C0002,Smart Home,NordTherm,142.29,2,Paid,284.58,0.0,No complaint,,284.58,False
+101109,2023-12-14,C0183, Smart Home ,NordLock Pro,228.56,1,Paid,228.56,228.56,Product Defect,1.0,0.0,True
+100225,2023-11-24,C0240,Accessories,Screen Protector,14.17,2,Paid,28.34,0.0,No complaint,,28.34,False
+100020,2023-11-15,C0001, Electronics ,Laptop X,1645.89,1,Paid,1645.89,0.0,No complaint,,1645.89,False
+101097,2023-12-14,C0276, Accessories ,Phone Case,22.51,1,Paid,22.51,0.0,No complaint,,22.51,False
+100419,2023-11-29,C0002,Electronics,Laptop X,1724.19,1,Paid,1724.19,0.0,No complaint,,1724.19,False
+101100,2023-12-14,C0007, Accessories ,Charger,19.64,1,Paid,19.64,0.0,No complaint,,19.64,False
+100992,2023-12-12,C0001,Accessories,Wireless Mouse,50.82,1,Paid,50.82,0.0,No complaint,,50.82,False
+100386,2023-11-28,C0069,Smart Home,NordPlug,21.62,1,Paid,21.62,0.0,No complaint,,21.62,False
+100930,2023-12-10,C0037,Accessories,Phone Case,30.63,1,Paid,30.63,0.0,No complaint,,30.63,False
+100453,2023-11-30,C0005, Electronics ,NoiseCancel Headphones,247.94,1,Paid,247.94,0.0,Product Defect,1.0,247.94,False
+100265,2023-11-25,C0001,Electronics,Tablet A,662.2,1,Paid,662.2,0.0,No complaint,,662.2,False
+101065,2023-12-13,C0001,Smart Home,NordLock Pro,237.74,1,Paid,237.74,237.74,No complaint,,0.0,True
+100161,2023-11-21,C0318,Electronics ,Smartphone Z,852.83,1,Paid,852.83,0.0,No complaint,,852.83,False
+100111,2023-11-19,C0188,Electronics,NoiseCancel Headphones,298.0,1,Paid,298.0,0.0,No complaint,,298.0,False
+100304,2023-11-26,C0008, Electronics ,Laptop X,1545.42,1,Paid,1545.42,0.0,No complaint,,1545.42,False
+100049,2023-11-17,C0003,Accessories,Laptop Sleeve,24.43,1,Paid,24.43,0.0,No complaint,,24.43,False
+100510,2023-12-01,C0001,Accessories,Laptop Sleeve,30.16,2,Paid,60.32,0.0,No complaint,,60.32,False
+100019,2023-11-15,C0034,Smart Home,NordLock Pro,181.24,2,Paid,362.48,0.0,No complaint,,362.48,False
+101068,2023-12-13,C0052,Electronics ,Laptop X,1467.19,1,Paid,1467.19,0.0,Product Defect,1.0,1467.19,False
+100935,2023-12-11,C0002,Accessories,USB-C Cable,15.08,1,Paid,15.08,0.0,No complaint,,15.08,False
+101115,2023-12-14,C0307, Electronics ,NoiseCancel Headphones,222.14,1,Paid,222.14,0.0,"Other, Product Defect",3.0,222.14,False
+100886,2023-12-09,C0016,Accessories,Screen Protector,6.71,3,Paid,20.13,0.0,No complaint,,20.13,False
+100276,2023-11-25,C0098, Accessories,Wireless Mouse,47.71,2,Paid,95.42,0.0,No complaint,,95.42,False
+100115,2023-11-19,C0005,Accessories,Screen Protector,9.78,3,Paid,29.339999999999996,0.0,No complaint,,29.339999999999996,False
+100728,2023-12-06,C0052,Smart Home,NordLock Pro,209.66,1,Paid,209.66,0.0,No complaint,,209.66,False
+101156,2023-11-24,C0002,Electronics,Tablet A,386.12,1,Paid,386.12,0.0,No complaint,,386.12,False
+100002,2023-11-15,C0002,Electronics,Tablet A,488.25,1,Paid,488.25,0.0,No complaint,,488.25,False
+100228,2023-11-24,C0147,Electronics,Smartphone Z,1055.64,1,Paid,1055.64,0.0,No complaint,,1055.64,False
+100249,2023-11-24,C0060, Electronics ,NoiseCancel Headphones,315.48,1,Paid,315.48,0.0,No complaint,,315.48,False
+100497,2023-12-01,C0224, Electronics ,TV Pro,1627.15,1,Paid,1627.15,0.0,No complaint,,1627.15,False
+100961,2023-12-11,C0003,Electronics,Smartphone Z,832.85,1,Paid,832.85,0.0,No complaint,,832.85,False
+100336,2023-11-27,C0002, Accessories ,Charger,22.85,4,Paid,91.4,0.0,No complaint,,91.4,False
+100440,2023-11-30,C0012,Accessories,USB-C Cable,12.61,1,Paid,12.61,0.0,No complaint,,12.61,False
+101167,2023-12-11,C0001,Electronics ,TV Pro,969.19,1,Paid,969.19,0.0,No complaint,,969.19,False
+100813,2023-12-08,C0010, Electronics ,NoiseCancel Headphones,150.46,2,Paid,300.92,0.0,"Product Defect, Other",3.0,300.92,False
+101052,2023-12-13,C0137,Accessories,Screen Protector,10.44,1,Paid,10.44,0.0,No complaint,,10.44,False
+100442,2023-11-30,C0001,Electronics,NoiseCancel Headphones,153.0,2,Paid,306.0,0.0,No complaint,,306.0,False
+101163,2023-12-07,C0047,Electronics,Smartphone Z,712.48,1,Paid,712.48,0.0,No complaint,,712.48,False
+101114,2023-12-14,C0002,Accessories,Laptop Sleeve,32.82,1,Paid,32.82,0.0,No complaint,,32.82,False
+100839,2023-12-08,C0011, Accessories,Phone Case,24.43,1,Paid,24.43,0.0,No complaint,,24.43,False
+101048,2023-12-13,C0014, Smart Home ,NordLock Pro,183.01,1,Paid,183.01,0.0,No complaint,,183.01,False
+101104,2023-12-14,C0013,Accessories,Accessory Bundle,83.54,1,Paid,83.54,0.0,No complaint,,83.54,False
+101150,2023-12-12,C0040,Smart Home,NordLock Pro,185.28,2,Paid,370.56,0.0,No complaint,,370.56,False
+100243,2023-11-24,C0026,Electronics ,Laptop X,1554.67,1,Paid,1554.67,0.0,No complaint,,1554.67,False
+100684,2023-12-05,C0001, Electronics ,Tablet A,587.1,1,Paid,587.1,0.0,No complaint,,587.1,False
+100658,2023-12-05,C0002,Electronics ,NoiseCancel Headphones,151.84,1,Paid,151.84,0.0,No complaint,,151.84,False
+100505,2023-12-01,C0007, Electronics ,TV Pro,1619.06,1,Paid,1619.06,0.0,No complaint,,1619.06,False
+100409,2023-11-29,C0001,Smart Home,NordPlug,21.0,1,Paid,21.0,0.0,No complaint,,21.0,False
+101199,2023-11-24,C0001, Electronics ,NoiseCancel Headphones,182.17,2,Paid,364.34,0.0,No complaint,,364.34,False
+101106,2023-12-14,C0008, Electronics ,Tablet A,635.65,1,Paid,635.65,0.0,No complaint,,635.65,False
+100141,2023-11-21,C0007, Accessories,Phone Case,23.73,1,Paid,23.73,0.0,No complaint,,23.73,False
+100547,2023-12-02,C0038, Accessories ,Charger,24.9,2,Paid,49.8,0.0,No complaint,,49.8,False
+100901,2023-12-10,C0036,Accessories,Phone Case,23.08,3,Paid,69.24,0.0,No complaint,,69.24,False
+100638,2023-12-04,C0005, Accessories,Phone Case,19.42,1,Paid,19.42,0.0,No complaint,,19.42,False
+100689,2023-12-06,C0166,Electronics,Smartphone Z,963.43,1,Paid,963.43,0.0,Product Defect,1.0,963.43,False
+100622,2023-12-04,C0135,Accessories,Accessory Bundle,66.41,2,Paid,132.82,0.0,No complaint,,132.82,False
+100584,2023-12-03,C0013,Electronics ,Tablet A,524.49,2,Paid,1048.98,0.0,No complaint,,1048.98,False
+101116,2023-12-14,C0002,Accessories,Screen Protector,9.56,1,Paid,9.56,9.56,No complaint,,0.0,True
+101105,2023-12-14,C0218,Smart Home,NordLock Pro,221.88,1,Paid,221.88,0.0,"Product Defect, Other",3.0,221.88,False
